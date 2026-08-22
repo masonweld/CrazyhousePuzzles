@@ -1,0 +1,475 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Crazyhouse Puzzles</title>
+    
+    <link rel="stylesheet" href="https://unpkg.com/@chrisoakman/chessboardjs@1.0.0/dist/chessboard-1.0.0.min.css">
+    
+    <style>
+        :root {
+            --bg-body: #161512; --bg-panel: #262421; --bg-input: #302e2b;
+            --bg-pocket: #3e3a33; --border-pocket: #555047; 
+            --text-main: #bababa; --text-light: #ffffff;
+            --color-green: #629924; --color-green-hover: #73b32a;
+            --color-blue: #3692e7; --color-blue-hover: #4ea1ee;
+            --color-orange: #d07b33; --color-orange-hover: #df883f;
+            --color-red: #cc3333;
+            --pocket-piece-size: 40px; 
+        }
+
+        body { font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; background-color: var(--bg-body); color: var(--text-main); margin: 0; padding: 30px; display: flex; justify-content: center; }
+        h1 { margin-top: 0; color: var(--text-light); font-weight: normal; font-size: 24px;}
+        h2 { margin: 0; font-weight: normal; font-size: 18px; color: var(--text-light); }
+
+        #app-container { display: flex; gap: 30px; max-width: 1200px; width: 100%; align-items: flex-start; }
+        #left-column { flex-shrink: 0; display: flex; flex-direction: column; }
+        
+        #board-wrapper { width: 500px; min-width: 300px; max-width: 800px; resize: horizontal; overflow: hidden; }
+        #board { width: 100%; }
+
+        #right-column { background-color: var(--bg-panel); padding: 25px; border-radius: 5px; flex-grow: 1; display: flex; flex-direction: column; gap: 15px; box-shadow: 0 4px 6px rgba(0,0,0,0.3); min-width: 300px; }
+
+        .tabs { display: flex; border-bottom: 1px solid #403d39; margin-bottom: 10px; }
+        .tab { padding: 10px 10px; cursor: pointer; color: var(--text-main); font-weight: bold; flex: 1; text-align: center; transition: 0.2s; border-bottom: 3px solid transparent; font-size: 14px;}
+        .tab:hover { background-color: rgba(255,255,255,0.05); }
+        .tab.active { color: var(--text-light); border-bottom-color: var(--color-blue); }
+        .tab.disabled { pointer-events: none; opacity: 0.5; }
+
+        .control-group { display: flex; align-items: center; gap: 15px; }
+        label { font-weight: bold; color: var(--text-light); }
+        select, input[type="text"] { background: var(--bg-input); color: var(--text-light); padding: 8px 12px; font-size: 16px; border: 1px solid #403d39; border-radius: 3px; outline: none; }
+        
+        button { padding: 12px 20px; font-size: 15px; font-weight: bold; cursor: pointer; border: none; border-radius: 3px; color: white; text-transform: uppercase; text-shadow: 0 1px 0 rgba(0,0,0,0.2); transition: background 0.1s; width: 100%;}
+        #start-sprint-btn, #search-btn { background-color: var(--color-blue); }
+        #start-sprint-btn:hover, #search-btn:hover { background-color: var(--color-blue-hover); }
+        #next-btn { background-color: var(--color-green); display: none; }
+        #next-btn:hover { background-color: var(--color-green-hover); }
+        #solution-btn { background-color: var(--color-orange); }
+        #solution-btn:hover { background-color: var(--color-orange-hover); }
+
+        #sprint-dashboard { display: none; background: #3d332a; border: 1px solid var(--color-orange); color: var(--color-orange); padding: 15px; border-radius: 5px; font-size: 22px; font-weight: bold; text-align: center; }
+        
+        #message { font-size: 18px; font-weight: bold; min-height: 24px; color: var(--color-green); }
+        #message.error { color: var(--color-red); }
+        #message.neutral { color: var(--text-light); }
+
+        #game-link-container { display: none; margin-top: 10px; text-align: center; }
+        #game-link { color: var(--color-blue); text-decoration: none; font-weight: bold; font-size: 14px;}
+        #game-link:hover { text-decoration: underline; }
+        #game-meta { color: var(--text-main); font-size: 12px; margin-bottom: 5px; } /* NEW: Metadata styling */
+
+        [class*="spare-pieces-top"], [class*="spare-pieces-bottom"] { display: flex !important; justify-content: flex-start; align-items: center; padding: 10px; width: 100%; min-height: 50px; background: var(--bg-pocket); border: 1px solid var(--border-pocket); border-radius: 5px; box-sizing: border-box; margin: 10px 0; }
+        [class*="spare-pieces-top"] img, [class*="spare-pieces-bottom"] img { margin: 0 4px !important; width: var(--pocket-piece-size) !important; height: var(--pocket-piece-size) !important; }
+        .empty-pocket-slot { opacity: 0.15 !important; pointer-events: none !important; filter: grayscale(100%) !important; }
+        .filled-pocket-slot { opacity: 1 !important; pointer-events: auto !important; cursor: grab !important; }
+        .piece-badge { background: #403d39; color: var(--text-light); border: 1px solid #161512; border-radius: 3px; padding: 2px 5px; font-weight: bold; pointer-events: none; z-index: 10; font-size: calc(var(--pocket-piece-size) * 0.3); margin-left: calc(var(--pocket-piece-size) * -0.375); margin-top: calc(var(--pocket-piece-size) * -0.5); }
+
+        @media (max-width: 850px) { #app-container { flex-direction: column; align-items: center; } #board-wrapper { width: 100%; max-width: 100%; resize: none; } #right-column { width: 100%; box-sizing: border-box; } }
+    </style>
+</head>
+<body>
+
+    <div id="app-container">
+        <div id="left-column">
+            <div id="board-wrapper">
+                <div id="board"></div>
+            </div>
+        </div>
+
+        <div id="right-column">
+            
+            <div class="tabs" id="mode-tabs">
+                <div id="tab-training" class="tab active" onclick="setMode('training')">Training</div>
+                <div id="tab-sprint" class="tab" onclick="setMode('sprint')">Sprint</div>
+                <div id="tab-player" class="tab" onclick="setMode('player')">Player Search</div> </div>
+
+            <div id="difficulty-area" class="control-group">
+                <label for="difficulty">Level:</label>
+                <select id="difficulty" onchange="nextPuzzle()">
+                    <option value="1">Mate in 1</option>
+                    <option value="2">Mate in 2</option>
+                    <option value="3">Mate in 3</option>
+                </select>
+            </div>
+
+            <div id="player-area" class="control-group" style="display: none;">
+                <input type="text" id="username-input" placeholder="Lichess Username" style="flex-grow: 1; width: 100px;">
+                <button id="search-btn" onclick="triggerPlayerSearch()" style="width: auto;">Search</button>
+            </div>
+
+            <div id="sprint-area" style="display: none;">
+                <button id="start-sprint-btn" onclick="startSprint()">⚡ Start 1-Minute Sprint</button>
+                <div id="sprint-dashboard">
+                    ⏱️ <span id="time-left">60</span>s &nbsp;|&nbsp; 🏆 <span id="score">0</span>
+                </div>
+            </div>
+
+            <hr style="border-color: #403d39; width: 100%; margin: 5px 0;">
+
+            <div id="status-panel">
+                <h2 id="turn-indicator"></h2>
+                <div id="message" style="margin-top: 10px;"></div>
+            </div>
+
+            <div id="button-area" style="margin-top: auto; display: flex; flex-direction: column; gap: 10px;">
+                <button id="solution-btn" onclick="showSolution()">Show Solution</button>
+                <button id="next-btn" onclick="nextPuzzle()">Next Puzzle</button>
+                <div id="game-link-container">
+                    <div id="game-meta">White (?) vs Black (?)</div>
+                    <a id="game-link" href="#" target="_blank">🔍 View original Lichess game</a>
+                </div>
+            </div>
+            
+        </div>
+    </div>
+
+    <script src="https://code.jquery.com/jquery-3.5.1.min.js"></script>
+    <script src="https://unpkg.com/@chrisoakman/chessboardjs@1.0.0/dist/chessboard-1.0.0.min.js"></script>
+
+    <script>
+        let currentFen = "{{ fen }}";
+        let solutionSequence = {{ solution | tojson | safe }}; 
+        let currentUrl = "{{ url }}"; 
+        let currentStep = 0;
+        let board = null; 
+        let isShowingSolution = false;
+
+        let appMode = 'training'; // 'training', 'sprint', or 'player'
+        let currentSearchUser = ""; // Tracks who we are currently filtering for
+        let isSprintMode = false; 
+        let sprintScore = 0;
+        let sprintTime = 60;
+        let sprintInterval = null;
+
+        function getStandardFen(crazyFen) { return crazyFen.replace(/\[.*?\]/, ''); }
+        function getPocket(crazyFen) { const match = crazyFen.match(/\[(.*?)\]/); return match ? match[1] : ""; }
+        function getTurn(crazyFen) { const parts = crazyFen.split(' '); return parts[1] === 'b' ? 'black' : 'white'; }
+
+        function updatePocketSize() {
+            let boardWidth = document.getElementById('board').clientWidth;
+            let newSize = Math.max(20, boardWidth * 0.08); 
+            document.documentElement.style.setProperty('--pocket-piece-size', newSize + 'px');
+        }
+
+        // --- UPDATED: Handle 3 Tabs ---
+        function setMode(mode) {
+            if (appMode === mode) return; 
+            
+            appMode = mode;
+            document.getElementById('tab-training').className = mode === 'training' ? 'tab active' : 'tab';
+            document.getElementById('tab-sprint').className = mode === 'sprint' ? 'tab active' : 'tab';
+            document.getElementById('tab-player').className = mode === 'player' ? 'tab active' : 'tab';
+            
+            clearInterval(sprintInterval);
+            isSprintMode = false;
+            isShowingSolution = false;
+            document.getElementById('mode-tabs').classList.remove('disabled');
+            
+            // Toggle view visibility
+            document.getElementById('difficulty-area').style.display = (mode === 'training' || mode === 'sprint') ? "flex" : "none";
+            document.getElementById('player-area').style.display = (mode === 'player') ? "flex" : "none";
+            
+            if (mode === 'sprint') {
+                document.getElementById('sprint-area').style.display = "block";
+                document.getElementById('start-sprint-btn').style.display = "block";
+                document.getElementById('start-sprint-btn').innerText = "⚡ Start 1-Minute Sprint";
+                document.getElementById('sprint-dashboard').style.display = "none";
+            } else {
+                document.getElementById('sprint-area').style.display = "none";
+            }
+            
+            // Only auto-load a puzzle if going back to training. If they clicked Player, wait for them to search.
+            if (mode === 'training') {
+                nextPuzzle(); 
+            } else if (mode === 'player') {
+                document.getElementById('message').innerText = "Enter a username to begin.";
+                document.getElementById('message').className = "neutral";
+                document.getElementById('solution-btn').style.display = "none";
+                document.getElementById('next-btn').style.display = "none";
+            }
+        }
+
+        function syncPocketVisuals(crazyFen) {
+            const pocket = getPocket(crazyFen);
+            let currentOrientation = board.orientation();
+            let $whitePocket = currentOrientation === 'white' ? $('[class*="spare-pieces-bottom"]') : $('[class*="spare-pieces-top"]');
+            let $blackPocket = currentOrientation === 'black' ? $('[class*="spare-pieces-bottom"]') : $('[class*="spare-pieces-top"]');
+            
+            $whitePocket.find('img').hide(); $blackPocket.find('img').hide(); $('.piece-badge').remove(); 
+            
+            let displayTurn = currentOrientation.charAt(0).toUpperCase() + currentOrientation.slice(1);
+            let movesToMate = Math.ceil((solutionSequence.length - currentStep) / 2);
+            
+            if (currentStep < solutionSequence.length) {
+                document.getElementById('turn-indicator').innerText = displayTurn + " to move (Mate in " + movesToMate + ")";
+            } else {
+                document.getElementById('turn-indicator').innerText = "Checkmate!";
+            }
+
+            let counts = { 'w': { 'Q':0, 'R':0, 'B':0, 'N':0, 'P':0 }, 'b': { 'q':0, 'r':0, 'b':0, 'n':0, 'p':0 } };
+            for (let i = 0; i < pocket.length; i++) {
+                let p = pocket[i];
+                if (p === p.toUpperCase() && counts['w'][p] !== undefined) counts['w'][p]++;
+                else if (p === p.toLowerCase() && counts['b'][p] !== undefined) counts['b'][p]++;
+            }
+            
+            let piecesOrder = ['Q', 'R', 'B', 'N', 'P'];
+            piecesOrder.forEach(p => {
+                let pieceCode = 'w' + p; let count = counts['w'][p];
+                let $img = $whitePocket.find('img[data-piece="' + pieceCode + '"]');
+                $whitePocket.append($img); $img.removeClass('empty-pocket-slot filled-pocket-slot').show();
+                if (count === 0) { $img.addClass('empty-pocket-slot'); } 
+                else { $img.addClass('filled-pocket-slot'); $whitePocket.append($('<span class="piece-badge">' + count + '</span>')); }
+            });
+
+            piecesOrder.forEach(p => {
+                let pieceCode = 'b' + p; let count = counts['b'][p.toLowerCase()];
+                let $img = $blackPocket.find('img[data-piece="' + pieceCode + '"]');
+                $blackPocket.append($img); $img.removeClass('empty-pocket-slot filled-pocket-slot').show();
+                if (count === 0) { $img.addClass('empty-pocket-slot'); } 
+                else { $img.addClass('filled-pocket-slot'); $blackPocket.append($('<span class="piece-badge">' + count + '</span>')); }
+            });
+        }
+
+        function startSprint() {
+            isSprintMode = true;
+            sprintScore = 0;
+            sprintTime = 60;
+            isShowingSolution = false; 
+            
+            document.getElementById('score').innerText = sprintScore;
+            document.getElementById('time-left').innerText = sprintTime;
+            document.getElementById('sprint-dashboard').style.display = "block";
+            document.getElementById('start-sprint-btn').style.display = "none";
+            document.getElementById('solution-btn').style.display = "none";
+            document.getElementById('game-link-container').style.display = "none";
+            
+            document.getElementById('difficulty').disabled = true; 
+            document.getElementById('mode-tabs').classList.add('disabled'); 
+            
+            document.getElementById('message').innerText = "Sprint Started!";
+            document.getElementById('message').className = "neutral";
+
+            clearInterval(sprintInterval);
+            sprintInterval = setInterval(function() {
+                sprintTime--;
+                document.getElementById('time-left').innerText = sprintTime;
+                if (sprintTime <= 0) { endSprint("Time's up! Final Score: " + sprintScore); }
+            }, 1000);
+
+            nextPuzzle(); 
+        }
+
+        function endSprint(reasonText) {
+            clearInterval(sprintInterval);
+            isSprintMode = false;
+            isShowingSolution = true; 
+            
+            document.getElementById('message').className = "error";
+            document.getElementById('message').innerText = reasonText;
+            
+            let restartBtn = document.getElementById('start-sprint-btn');
+            restartBtn.style.display = "block";
+            restartBtn.innerText = "Play Again";
+            document.getElementById('difficulty').disabled = false;
+            document.getElementById('mode-tabs').classList.remove('disabled');
+            
+            document.getElementById('solution-btn').style.display = "block";
+            document.getElementById('game-link').href = currentUrl;
+            document.getElementById('game-link-container').style.display = "block";
+        }
+
+        function onDrop(source, target, piece, newPos, oldPos, orientation) {
+            if (isShowingSolution) return 'snapback'; 
+            document.getElementById('message').innerText = ""; 
+            
+            if (target === 'offboard' || source === target) return 'snapback';
+            if (oldPos[target] && oldPos[target][0] === piece[0]) return 'snapback';
+
+            let move_uci = '';
+            if (source === 'spare') { move_uci = piece[1].toUpperCase() + '@' + target; } 
+            else { move_uci = source + target; if (piece[1] === 'P' && (target[1] === '8' || target[1] === '1')) move_uci += 'q'; }
+
+            if (move_uci !== solutionSequence[currentStep]) {
+                if (isSprintMode) {
+                    endSprint("Strike! Sprint failed. Final Score: " + sprintScore);
+                    return 'snapback';
+                } else {
+                    document.getElementById('message').className = "error";
+                    document.getElementById('message').innerText = "Wrong move! Keep trying.";
+                    return 'snapback'; 
+                }
+            }
+
+            validateMove(move_uci, true);
+        }
+
+        function validateMove(move_uci, isUserMove) {
+            fetch('/validate_move', {
+                method: 'POST',
+                headers: { 'Content-Type': 'application/json' },
+                body: JSON.stringify({ fen: currentFen, move: move_uci })
+            })
+            .then(response => response.json())
+            .then(data => {
+                if (data.valid) {
+                    currentFen = data.new_fen;
+                    board.position(getStandardFen(currentFen));
+                    currentStep++; 
+                    syncPocketVisuals(currentFen); 
+
+                    if (currentStep === solutionSequence.length) {
+                        if (isSprintMode) {
+                            sprintScore++;
+                            document.getElementById('score').innerText = sprintScore;
+                            nextPuzzle(); 
+                        } else {
+                            document.getElementById('message').className = "";
+                            document.getElementById('message').innerText = ""; 
+                            
+                            document.getElementById('next-btn').style.display = "block";
+                            document.getElementById('solution-btn').style.display = "none";
+                            document.getElementById('game-link').href = currentUrl;
+                            document.getElementById('game-link-container').style.display = "block";
+                        }
+                    } else if (isUserMove) {
+                        if (!isSprintMode) {
+                            document.getElementById('message').className = "neutral";
+                            document.getElementById('message').innerText = "Computer is replying...";
+                        }
+                        setTimeout(playComputerMove, isSprintMode ? 200 : 500); 
+                    }
+                }
+            })
+            .catch(error => console.error('Error:', error));
+        }
+
+        function playComputerMove() {
+            let compMove = solutionSequence[currentStep];
+            validateMove(compMove, false); 
+            if (!isSprintMode) {
+                document.getElementById('message').className = "neutral";
+                document.getElementById('message').innerText = "Your turn!";
+            }
+        }
+
+        function showSolution() {
+            isShowingSolution = true;
+            document.getElementById('solution-btn').style.display = "none";
+            document.getElementById('message').className = "neutral";
+            document.getElementById('message').innerText = "Playing solution...";
+            document.getElementById('game-link').href = currentUrl;
+            document.getElementById('game-link-container').style.display = "block";
+            playNextSolutionMove();
+        }
+
+        function playNextSolutionMove() {
+            if (currentStep < solutionSequence.length) {
+                let move_uci = solutionSequence[currentStep];
+                fetch('/validate_move', { method: 'POST', headers: { 'Content-Type': 'application/json' }, body: JSON.stringify({ fen: currentFen, move: move_uci }) })
+                .then(response => response.json())
+                .then(data => {
+                    if (data.valid) {
+                        currentFen = data.new_fen;
+                        board.position(getStandardFen(currentFen));
+                        currentStep++; syncPocketVisuals(currentFen);
+                        setTimeout(playNextSolutionMove, 800);
+                    }
+                });
+            } else {
+                document.getElementById('message').className = "";
+                document.getElementById('message').innerText = "";
+                // Do not show next puzzle button during sprint failure screen
+                if (!isSprintMode) {
+                    document.getElementById('next-btn').style.display = "block";
+                }
+            }
+        }
+
+        // --- NEW: Triggers when the user clicks Search ---
+        function triggerPlayerSearch() {
+            let inputName = document.getElementById('username-input').value.trim();
+            if (!inputName) return;
+            currentSearchUser = inputName;
+            nextPuzzle();
+        }
+
+        function nextPuzzle() {
+            const difficulty = document.getElementById('difficulty').value;
+            
+            // Build the appropriate URL based on the mode
+            let fetchUrl = '/get_puzzle?mate=' + difficulty;
+            if (appMode === 'player' && currentSearchUser) {
+                fetchUrl = '/get_puzzle?username=' + encodeURIComponent(currentSearchUser);
+            }
+            
+            fetch(fetchUrl)
+            .then(response => response.json())
+            .then(data => {
+                // Handle the case where the python script found no matches
+                if (data.error) {
+                    document.getElementById('message').className = "error";
+                    document.getElementById('message').innerText = data.error;
+                    return; 
+                }
+
+                currentFen = data.fen;
+                solutionSequence = data.solution; 
+                currentUrl = data.url; 
+                currentStep = 0; 
+                
+                if (!(isSprintMode && sprintTime <= 0)) { isShowingSolution = false; }
+                
+                board.orientation(getTurn(currentFen));
+                board.position(getStandardFen(currentFen));
+                syncPocketVisuals(currentFen);
+                
+                // Update the visual metadata for who was playing!
+                let whiteText = data.white + " (" + (data.white_elo !== "?" ? data.white_elo : "N/A") + ")";
+                let blackText = data.black + " (" + (data.black_elo !== "?" ? data.black_elo : "N/A") + ")";
+                document.getElementById('game-meta').innerText = whiteText + " vs " + blackText;
+
+                document.getElementById('message').innerText = "";
+                document.getElementById('next-btn').style.display = "none";
+                document.getElementById('game-link-container').style.display = "none"; 
+                
+                if (appMode === 'training' || appMode === 'player') { 
+                    document.getElementById('solution-btn').style.display = "block"; 
+                } else if (!isSprintMode && sprintTime < 60) {
+                    document.getElementById('solution-btn').style.display = "none";
+                } else {
+                    document.getElementById('solution-btn').style.display = "none";
+                }
+            })
+            .catch(error => console.error('Error loading next puzzle:', error));
+        }
+
+        // Allow pressing Enter in the search box to trigger the search
+        document.getElementById("username-input").addEventListener("keypress", function(event) {
+            if (event.key === "Enter") {
+                event.preventDefault();
+                triggerPlayerSearch();
+            }
+        });
+
+        $(document).ready(function() {
+            board = Chessboard('board', {
+                draggable: true, sparePieces: true, orientation: getTurn(currentFen), dropOffBoard: 'snapback', position: getStandardFen(currentFen), onDrop: onDrop, pieceTheme: '/static/img/chesspieces/wikipedia/{piece}.png'
+            });
+            syncPocketVisuals(currentFen);
+            updatePocketSize(); 
+
+            const resizeObserver = new ResizeObserver(() => {
+                if (board) {
+                    board.resize();
+                    syncPocketVisuals(currentFen);
+                    updatePocketSize(); 
+                }
+            });
+            resizeObserver.observe(document.getElementById('board-wrapper'));
+        });
+        
+    </script>
+</body>
+</html>
