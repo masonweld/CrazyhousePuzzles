@@ -1,0 +1,2576 @@
+[
+    {
+        "mate_in": 3,
+        "fen": "r4rk1/ppp2ppp/2pN3b/4p3/3b4/7P/PPP1KpP1/R6R[QBNNqbnpp] w - - 0 23",
+        "solution": [
+            "N@e7",
+            "g8h8",
+            "Q@g8",
+            "f8g8",
+            "d6f7"
+        ],
+        "url": "https://lichess.org/gXhdeyEA",
+        "white": "Bido9000",
+        "black": "jebehe",
+        "white_elo": "1946",
+        "black_elo": "2007",
+        "time_control": "180+0",
+        "date": "2026.03.01"
+    },
+    {
+        "mate_in": 3,
+        "fen": "r3k1nr/ppp2ppp/3p4/2B1p3/4P3/2NP1P1n/PPP2P1P/R4R1K[QBBNqb] b kq - 2 12",
+        "solution": [
+            "B@g2",
+            "h1g2",
+            "h3f4",
+            "g2g1",
+            "Q@g2"
+        ],
+        "url": "https://lichess.org/uGO8XaHG",
+        "white": "neelsg",
+        "black": "Toufiqlakhani",
+        "white_elo": "1904",
+        "black_elo": "1812",
+        "time_control": "300+5",
+        "date": "2026.03.01"
+    },
+    {
+        "mate_in": 3,
+        "fen": "rn2k2r/pp3p1p/2p1p3/3p2p1/6bq/1PNPPPn1/P1P2RPQ/R1B3K1[BBNP] b kq - 4 23",
+        "solution": [
+            "h4h2",
+            "g1h2",
+            "Q@h1",
+            "h2g3",
+            "h1h4"
+        ],
+        "url": "https://lichess.org/HCFaNzqi",
+        "white": "WhaleClock",
+        "black": "Ayoub_Ali",
+        "white_elo": "1446",
+        "black_elo": "1477",
+        "time_control": "60+0",
+        "date": "2026.03.01"
+    },
+    {
+        "mate_in": 3,
+        "fen": "r1b4r/pppkNQpp/2n1p3/4P3/4p3/2PqP1P1/PP4P1/R3K2R[BBBNPPn] b - - 2 24",
+        "solution": [
+            "N@c2",
+            "e1f2",
+            "d3e3",
+            "f2f1",
+            "P@e2"
+        ],
+        "url": "https://lichess.org/4Qsq0IL9",
+        "white": "Kenudui_2013",
+        "black": "Andreag75",
+        "white_elo": "1306",
+        "black_elo": "1376",
+        "time_control": "60+2",
+        "date": "2026.03.01"
+    },
+    {
+        "mate_in": 3,
+        "fen": "2kr1bnr/pppbpppp/2n5/1N6/4P3/4B3/PPP2PPP/R2K1BNR[QPqp] b - - 6 7",
+        "solution": [
+            "d7g4",
+            "d1e1",
+            "Q@d1",
+            "a1d1",
+            "d8d1"
+        ],
+        "url": "https://lichess.org/owzpDvYK",
+        "white": "DarkFlavius1",
+        "black": "operaSaf",
+        "white_elo": "1848",
+        "black_elo": "1890",
+        "time_control": "45+0",
+        "date": "2026.03.01"
+    },
+    {
+        "mate_in": 3,
+        "fen": "r4rk1/p3bNpp/4qPn1/1ppb1bP1/3p1P2/6Q1/PPP1N2P/R1B2RK1[NPpp] w - - 0 26",
+        "solution": [
+            "N@h6",
+            "g7h6",
+            "f7h6",
+            "g8h8",
+            "P@g7"
+        ],
+        "url": "https://lichess.org/DrbW1CSK",
+        "white": "Tsume",
+        "black": "FangMcFrost",
+        "white_elo": "2427",
+        "black_elo": "2471",
+        "time_control": "120+2",
+        "date": "2026.03.01"
+    },
+    {
+        "mate_in": 3,
+        "fen": "Rbk5/1pprbp1p/bp3p2/3p4/3Pp3/4P1P1/PP1qN1PP/2R2RK1[Nqbnnp] w - - 0 27",
+        "solution": [
+            "N@a7",
+            "c8d8",
+            "a8b8",
+            "B@c8",
+            "b8c8"
+        ],
+        "url": "https://lichess.org/YFCAd8ee",
+        "white": "Nurrv",
+        "black": "calcsam",
+        "white_elo": "1829",
+        "black_elo": "2106",
+        "time_control": "300+3",
+        "date": "2026.03.01"
+    },
+    {
+        "mate_in": 3,
+        "fen": "r1bq2r1/p1ppb1pp/2p1kn1P/4N3/4P3/8/PPP2PPP/RNBQK2R[Pbnp] w KQ - 4 10",
+        "solution": [
+            "P@f5",
+            "e6e5",
+            "f2f4",
+            "e5e4",
+            "d1d3"
+        ],
+        "url": "https://lichess.org/ha8guov3",
+        "white": "FangMcFrost",
+        "black": "Z-Chin",
+        "white_elo": "2461",
+        "black_elo": "2205",
+        "time_control": "60+0",
+        "date": "2026.03.01"
+    },
+    {
+        "mate_in": 3,
+        "fen": "r1b2rk1/pppp1ppp/3b1b2/4p3/4P1R1/2nP1PBP/P4PPP/5R1K[QNqnn] w - - 2 37",
+        "solution": [
+            "N@h6",
+            "g8h8",
+            "Q@g8",
+            "f8g8",
+            "h6f7"
+        ],
+        "url": "https://lichess.org/JtFCadze",
+        "white": "cuqa",
+        "black": "LucasGhattas",
+        "white_elo": "2070",
+        "black_elo": "1665",
+        "time_control": "180+2",
+        "date": "2026.03.02"
+    },
+    {
+        "mate_in": 3,
+        "fen": "r2k1b1r/pppn2pp/4Q3/3Pp3/4P3/8/PPP2PPP/RNB1K2R[Nqbbnpp] w KQ - 4 15",
+        "solution": [
+            "N@f7",
+            "d8c8",
+            "e6e8",
+            "B@d8",
+            "e8d8"
+        ],
+        "url": "https://lichess.org/RfJyum4K",
+        "white": "NewRulesx",
+        "black": "BRZ2",
+        "white_elo": "2157",
+        "black_elo": "1820",
+        "time_control": "180+2",
+        "date": "2026.03.02"
+    },
+    {
+        "mate_in": 3,
+        "fen": "3r4/p4p1k/1p1p1Qbp/1P2p3/PP1P4/1NN1PN1P/1P3PP1/3K3R[RRPqbbbn] b - - 3 34",
+        "solution": [
+            "Q@c2",
+            "d1e1",
+            "N@d3",
+            "e1f1",
+            "c2f2"
+        ],
+        "url": "https://lichess.org/1o6NQIg5",
+        "white": "googlemax",
+        "black": "Boazprince",
+        "white_elo": "1256",
+        "black_elo": "1296",
+        "time_control": "600+15",
+        "date": "2026.03.03"
+    },
+    {
+        "mate_in": 3,
+        "fen": "rn3b1r/ppp1kNpp/4pn2/8/3P4/2P2P2/P1b3KP/R1B2R2[QNPPqbppp] w - - 2 24",
+        "solution": [
+            "Q@d8",
+            "e7f7",
+            "N@e5",
+            "f7g8",
+            "P@f7"
+        ],
+        "url": "https://lichess.org/CHiHgPhc",
+        "white": "UmangKnightYT",
+        "black": "matyko",
+        "white_elo": "2100",
+        "black_elo": "2113",
+        "time_control": "60+0",
+        "date": "2026.03.03"
+    },
+    {
+        "mate_in": 3,
+        "fen": "r2q4/pppb1p1p/5pPk/3p2N1/6n1/3QP1P1/PPP2RPb/2R4K[RBBNPPn] b - - 0 27",
+        "solution": [
+            "g4f2",
+            "h1h2",
+            "N@g4",
+            "h2g1",
+            "R@h1"
+        ],
+        "url": "https://lichess.org/8g5ahm1z",
+        "white": "Erbsenzaehler",
+        "black": "basem_elghazaly512",
+        "white_elo": "2169",
+        "black_elo": "2108",
+        "time_control": "0+3",
+        "date": "2026.03.03"
+    },
+    {
+        "mate_in": 3,
+        "fen": "r4r1k/ppp1Nbpp/4P3/4PP2/3p3n/3P4/PPP2PPP/3R1RK1[QBBNqbn] b - - 6 25",
+        "solution": [
+            "N@h3",
+            "g1h1",
+            "Q@g1",
+            "f1g1",
+            "h3f2"
+        ],
+        "url": "https://lichess.org/v1oN96Y1",
+        "white": "KOJEKUDE",
+        "black": "Whaddup",
+        "white_elo": "1869",
+        "black_elo": "1815",
+        "time_control": "60+7",
+        "date": "2026.03.03"
+    },
+    {
+        "mate_in": 3,
+        "fen": "5k1r/p4ppp/2BPpn2/3p4/3P1b2/5p1P/PPP2PPb/R2Q1R1K[QRBNPnn] b - - 2 21",
+        "solution": [
+            "f3g2",
+            "h1g2",
+            "N@h4",
+            "g2h1",
+            "P@g2"
+        ],
+        "url": "https://lichess.org/eZrU29qU",
+        "white": "AJLearns",
+        "black": "RedDracula",
+        "white_elo": "2135",
+        "black_elo": "1943",
+        "time_control": "0+2",
+        "date": "2026.03.03"
+    },
+    {
+        "mate_in": 3,
+        "fen": "r1b2rk1/ppp2ppp/2n2p2/3Bp2N/4P3/5N1p/PpP1BpPP/1R1R3K[QNqb] w - - 2 19",
+        "solution": [
+            "N@h6",
+            "g8h8",
+            "Q@g8",
+            "f8g8",
+            "h6f7"
+        ],
+        "url": "https://lichess.org/T94USYPb",
+        "white": "Silklin",
+        "black": "Edlizzy",
+        "white_elo": "1979",
+        "black_elo": "2083",
+        "time_control": "60+0",
+        "date": "2026.03.04"
+    },
+    {
+        "mate_in": 3,
+        "fen": "r1bB1rk1/p1p2p1p/2p1p3/N3Pr2/3Ppq2/2Pb2pK/P5PP/6NR[QBNNPP] b - - 1 26",
+        "solution": [
+            "f5h5",
+            "N@h4",
+            "h5h4",
+            "d8h4",
+            "N@f2"
+        ],
+        "url": "https://lichess.org/ww2c0erO",
+        "white": "Elmar1001",
+        "black": "levvv2009",
+        "white_elo": "1835",
+        "black_elo": "1908",
+        "time_control": "120+1",
+        "date": "2026.03.04"
+    },
+    {
+        "mate_in": 3,
+        "fen": "r2q1r2/1pp3k1/p2p1p1N/3P3Q/1P6/P2Pbn1P/2P2rP1/R4B1K[bbnnpppp] w - - 8 54",
+        "solution": [
+            "h6f5",
+            "g7g8",
+            "h5g6",
+            "g8h8",
+            "g6g7"
+        ],
+        "url": "https://lichess.org/owW4tlOw",
+        "white": "whitearrow",
+        "black": "Loyez",
+        "white_elo": "1694",
+        "black_elo": "1712",
+        "time_control": "300+0",
+        "date": "2026.03.04"
+    },
+    {
+        "mate_in": 3,
+        "fen": "r5k1/pp4pp/4p1n1/1B3pn1/3PpP1b/P7/1PP2PKP/R2Q1R2[QRBBNNPP] b - - 3 28",
+        "solution": [
+            "g6f4",
+            "g2h1",
+            "P@g2",
+            "h1g1",
+            "g5h3"
+        ],
+        "url": "https://lichess.org/kKhog3cl",
+        "white": "enocent",
+        "black": "twpro",
+        "white_elo": "1787",
+        "black_elo": "1658",
+        "time_control": "60+5",
+        "date": "2026.03.05"
+    },
+    {
+        "mate_in": 3,
+        "fen": "r2q2Q~r/pp1kb1pp/3p4/8/2B5/2N4n/PPP2PKP/R1B2R2[BNNPPPqpp] b - - 0 14",
+        "solution": [
+            "Q@g4",
+            "B@g3",
+            "P@f3",
+            "g2h1",
+            "P@g2"
+        ],
+        "url": "https://lichess.org/lZYAsuHX",
+        "white": "Pawn_in_7",
+        "black": "shai1070",
+        "white_elo": "2118",
+        "black_elo": "1962",
+        "time_control": "180+2",
+        "date": "2026.03.05"
+    },
+    {
+        "mate_in": 3,
+        "fen": "NnQ2bk1/pp1r1p1p/2p2pp1/8/2Pq4/8/PP1N1PPP/R2K1B1R[RBBnppp] w - - 1 20",
+        "solution": [
+            "R@h8",
+            "g8h8",
+            "c8f8",
+            "R@g8",
+            "B@g7"
+        ],
+        "url": "https://lichess.org/ZD4TEvpS",
+        "white": "NasSsimdz",
+        "black": "Alex31Sokol",
+        "white_elo": "1521",
+        "black_elo": "1615",
+        "time_control": "300+0",
+        "date": "2026.03.06"
+    },
+    {
+        "mate_in": 3,
+        "fen": "r2r4/p3b1pR/2p5/qp2k1P1/3pPNb1/6P1/P4PK1/R7[NPPPqbbnnppp] w - - 0 36",
+        "solution": [
+            "N@f7",
+            "e5e4",
+            "P@d3",
+            "e4f5",
+            "P@e4"
+        ],
+        "url": "https://lichess.org/qiQH8cBw",
+        "white": "alhammam1",
+        "black": "Sul-Gul-Bounce",
+        "white_elo": "1502",
+        "black_elo": "1497",
+        "time_control": "300+3",
+        "date": "2026.03.06"
+    },
+    {
+        "mate_in": 3,
+        "fen": "r1b2rk1/ppp2ppp/2n2P2/3pP3/3P1p1N/2nBB2P/P1P1nPPK/R4R2[Qqb] b - - 2 17",
+        "solution": [
+            "B@g3",
+            "f2g3",
+            "f4g3",
+            "h2h1",
+            "Q@h2"
+        ],
+        "url": "https://lichess.org/KLi4mg9f",
+        "white": "alemogh",
+        "black": "syv",
+        "white_elo": "2019",
+        "black_elo": "2104",
+        "time_control": "60+0",
+        "date": "2026.03.06"
+    },
+    {
+        "mate_in": 3,
+        "fen": "rn1q1r2/ppp3kp/3b2p1/3p1p2/4b3/3P3P/PPP1QPPp/RNB2R1K[BNPn] b - - 3 15",
+        "solution": [
+            "e4g2",
+            "h1g2",
+            "N@h4",
+            "g2h1",
+            "P@g2"
+        ],
+        "url": "https://lichess.org/WXLvnnKc",
+        "white": "KRITHIKRAJAN2014",
+        "black": "stst6969",
+        "white_elo": "1500",
+        "black_elo": "2028",
+        "time_control": "180+2",
+        "date": "2026.03.06"
+    },
+    {
+        "mate_in": 3,
+        "fen": "r4rk1/2p2ppp/1pN5/1N3pN1/p7/P3P3/1P3PPP/5bK1[QBBBPPPqrrn] w - - 0 28",
+        "solution": [
+            "c6e7",
+            "g8h8",
+            "Q@g8",
+            "f8g8",
+            "g5f7"
+        ],
+        "url": "https://lichess.org/oDSZj9C3",
+        "white": "belaz863",
+        "black": "cookiiie",
+        "white_elo": "1961",
+        "black_elo": "1891",
+        "time_control": "180+15",
+        "date": "2026.03.06"
+    },
+    {
+        "mate_in": 3,
+        "fen": "r6r/pppb1k1p/3pp1pP/8/3n4/8/PPP2PP1/RN2KB1R[QNqbbnppp] w KQ - 1 21",
+        "solution": [
+            "Q@g7",
+            "f7e8",
+            "N@f6",
+            "e8d8",
+            "g7d7"
+        ],
+        "url": "https://lichess.org/VXMq3BLl",
+        "white": "Xmes62",
+        "black": "Etereno",
+        "white_elo": "1678",
+        "black_elo": "1680",
+        "time_control": "15+2",
+        "date": "2026.03.06"
+    },
+    {
+        "mate_in": 3,
+        "fen": "r4bk1/1R1Pb1pp/1pnpp3/8/4P3/2P1bN1P/P1P2b1P/R2Q1R1K[QNPnppp] b - - 0 29",
+        "solution": [
+            "P@g2",
+            "h1g2",
+            "N@f4",
+            "g2h1",
+            "P@g2"
+        ],
+        "url": "https://lichess.org/tQ65uh3F",
+        "white": "Milanello",
+        "black": "cryptography",
+        "white_elo": "2020",
+        "black_elo": "2089",
+        "time_control": "180+2",
+        "date": "2026.03.06"
+    },
+    {
+        "mate_in": 3,
+        "fen": "r1b1kbnr/ppp2ppp/8/3Q4/8/4pPp1/PPP1Bq2/RNBKR3[NNPPpp] b kq - 4 17",
+        "solution": [
+            "f2e1",
+            "d1e1",
+            "P@f2",
+            "e1d1",
+            "R@e1"
+        ],
+        "url": "https://lichess.org/A0Cz7UtZ",
+        "white": "Elmo5mostafa",
+        "black": "fsimon89",
+        "white_elo": "1545",
+        "black_elo": "1977",
+        "time_control": "360+2",
+        "date": "2026.03.07"
+    },
+    {
+        "mate_in": 3,
+        "fen": "r4rk1/pp3pp1/2pb2pP/3n2q1/4N3/4P2P/P1P1BPPb/R2Q1R1K[BNPnpp] b - - 0 19",
+        "solution": [
+            "g5g2",
+            "h1g2",
+            "N@h4",
+            "g2h1",
+            "P@g2"
+        ],
+        "url": "https://lichess.org/KYuTWMeL",
+        "white": "Beepbeeper",
+        "black": "Benja_ds07",
+        "white_elo": "2117",
+        "black_elo": "2231",
+        "time_control": "30+0",
+        "date": "2026.03.07"
+    },
+    {
+        "mate_in": 3,
+        "fen": "r1knR3/p1pp2p1/2p1B1Pb/2Np1pb1/8/1PP1Pp2/PPb1nP1R/K7[qqrnp] w - - 8 65",
+        "solution": [
+            "e6d7",
+            "c8b8",
+            "e8d8",
+            "g5d8",
+            "N@a6"
+        ],
+        "url": "https://lichess.org/o1YVxXS4",
+        "white": "DannyboyCrypto",
+        "black": "GEN_SET",
+        "white_elo": "1905",
+        "black_elo": "1902",
+        "time_control": "180+2",
+        "date": "2026.03.07"
+    },
+    {
+        "mate_in": 3,
+        "fen": "r1b4k/ppppb3/5npP/8/3PP3/8/PPP2PPP/R1B1K2R[RNPqqbnnp] w KQ - 0 17",
+        "solution": [
+            "P@g7",
+            "h8g8",
+            "R@h8",
+            "g8f7",
+            "N@g5"
+        ],
+        "url": "https://lichess.org/6XP8SuzJ",
+        "white": "aheadotg",
+        "black": "LowCloud",
+        "white_elo": "2333",
+        "black_elo": "2142",
+        "time_control": "60+0",
+        "date": "2026.03.07"
+    },
+    {
+        "mate_in": 3,
+        "fen": "r4rk1/p1Bnbppp/4p3/5b2/3Pp3/2N1P1Q1/PPP1PPpP/R5K1[RBNPqn] w - - 0 20",
+        "solution": [
+            "N@h6",
+            "g8h8",
+            "R@g8",
+            "f8g8",
+            "h6f7"
+        ],
+        "url": "https://lichess.org/cd3yEOfu",
+        "white": "philip178",
+        "black": "nobledome",
+        "white_elo": "2015",
+        "black_elo": "1914",
+        "time_control": "180+0",
+        "date": "2026.03.07"
+    },
+    {
+        "mate_in": 3,
+        "fen": "5b1r/1Q1npppp/N1p5/3kPP2/3P4/2P5/P1P1nPRP/2BKRq2[RBNPbpp] b - - 0 40",
+        "solution": [
+            "e2c3",
+            "d1d2",
+            "f1e1",
+            "d2e1",
+            "R@d1"
+        ],
+        "url": "https://lichess.org/zLy124Cl",
+        "white": "looser5690",
+        "black": "arceus-io",
+        "white_elo": "1959",
+        "black_elo": "1800",
+        "time_control": "180+2",
+        "date": "2026.03.07"
+    },
+    {
+        "mate_in": 3,
+        "fen": "Nn3b1r/1pR1nk2/2p2pp1/p2Pp2p/2B4P/1PB2P1R/P1PP2P1/RN2KQq1[Pb] b Q - 2 22",
+        "solution": [
+            "B@f2",
+            "e1e2",
+            "g1f1",
+            "e2f1",
+            "Q@e1"
+        ],
+        "url": "https://lichess.org/LGj37RHC",
+        "white": "Mala64",
+        "black": "Metinler",
+        "white_elo": "1495",
+        "black_elo": "1457",
+        "time_control": "540+5",
+        "date": "2026.03.07"
+    },
+    {
+        "mate_in": 3,
+        "fen": "r4rk1/ppp2pBp/2np4/4p3/2B1P3/3P1q1P/PPP1nPPP/R1Bb1R1K[QNn] b - - 4 16",
+        "solution": [
+            "f3g2",
+            "h1g2",
+            "N@h4",
+            "g2h1",
+            "P@g2"
+        ],
+        "url": "https://lichess.org/BLTd3He9",
+        "white": "bramada786",
+        "black": "aadiladam",
+        "white_elo": "1931",
+        "black_elo": "2327",
+        "time_control": "180+2",
+        "date": "2026.03.08"
+    },
+    {
+        "mate_in": 3,
+        "fen": "rnb1k2r/pp3p1p/3p2p1/4p3/1PB1p1n1/2P3K1/PPP3PP/R2Q3R[QBNNbp] b kq - 2 21",
+        "solution": [
+            "B@f4",
+            "g3h3",
+            "g4f2",
+            "h3h4",
+            "P@g5"
+        ],
+        "url": "https://lichess.org/HSAWfzkb",
+        "white": "zeys",
+        "black": "igr555",
+        "white_elo": "1983",
+        "black_elo": "1814",
+        "time_control": "180+2",
+        "date": "2026.03.08"
+    },
+    {
+        "mate_in": 3,
+        "fen": "rk1q1b1r/1pp1pBp1/P3B1Pp/1NpP4/4n3/8/1PP2PPP/R4RK1[NPPqbn] b - - 2 24",
+        "solution": [
+            "N@e2",
+            "g1h1",
+            "Q@g1",
+            "f1g1",
+            "e4f2"
+        ],
+        "url": "https://lichess.org/mMZuiFqA",
+        "white": "SD201",
+        "black": "PekkaBlunder",
+        "white_elo": "2201",
+        "black_elo": "2185",
+        "time_control": "15+4",
+        "date": "2026.03.08"
+    },
+    {
+        "mate_in": 3,
+        "fen": "r4rk1/1p3ppp/1p1b1p2/4p2N/8/4PN2/1BPPBPPP/5RK1[QNqrbnppp] w - - 2 28",
+        "solution": [
+            "N@h6",
+            "g8h8",
+            "Q@g8",
+            "f8g8",
+            "h6f7"
+        ],
+        "url": "https://lichess.org/bymy8r5F",
+        "white": "shiawasebutori",
+        "black": "lr0n-Maiden",
+        "white_elo": "2105",
+        "black_elo": "2142",
+        "time_control": "60+0",
+        "date": "2026.03.08"
+    },
+    {
+        "mate_in": 3,
+        "fen": "7k/5Bpp/5n2/p5Pn/3p1np1/P3p1B1/2P2p1P/R1B2R1K[QQRRBPPPPPn] b - - 2 38",
+        "solution": [
+            "h5g3",
+            "h2g3",
+            "B@g2",
+            "h1h2",
+            "N@f3"
+        ],
+        "url": "https://lichess.org/OpzYXbmJ",
+        "white": "AvetikDarbinian",
+        "black": "Kari-13",
+        "white_elo": "1555",
+        "black_elo": "1954",
+        "time_control": "60+2",
+        "date": "2026.03.08"
+    },
+    {
+        "mate_in": 3,
+        "fen": "r2qkb1r/pp3pp1/2pp3p/4pP2/6n1/1B1P3B/PPPB1PPP/R4RK1[NNqn] b kq - 3 14",
+        "solution": [
+            "N@e2",
+            "g1h1",
+            "Q@g1",
+            "f1g1",
+            "g4f2"
+        ],
+        "url": "https://lichess.org/FZnYFnrp",
+        "white": "POSPANKO",
+        "black": "crixus934",
+        "white_elo": "1992",
+        "black_elo": "1825",
+        "time_control": "180+0",
+        "date": "2026.03.08"
+    },
+    {
+        "mate_in": 3,
+        "fen": "5Rnk/p4pp1/2p3p1/3p3p/3P2nB/4P3/PPP1nPPP/4R1RK[QRBBPqbn] b - - 0 35",
+        "solution": [
+            "N@g3",
+            "h4g3",
+            "e2g3",
+            "f2g3",
+            "g4f2"
+        ],
+        "url": "https://lichess.org/VpYY46Sf",
+        "white": "PChemGuy",
+        "black": "nobledome",
+        "white_elo": "2146",
+        "black_elo": "1942",
+        "time_control": "300+3",
+        "date": "2026.03.09"
+    },
+    {
+        "mate_in": 3,
+        "fen": "r4rk1/5ppp/2pRp2p/p5N1/Pp2P3/1nb2PP1/2N2PK1/8[QBNPqrbbpp] w - - 2 49",
+        "solution": [
+            "N@e7",
+            "g8h8",
+            "Q@g8",
+            "f8g8",
+            "g5f7"
+        ],
+        "url": "https://lichess.org/pV4c38Lc",
+        "white": "bt_sao",
+        "black": "venanzio0812",
+        "white_elo": "1711",
+        "black_elo": "1819",
+        "time_control": "180+2",
+        "date": "2026.03.09"
+    },
+    {
+        "mate_in": 3,
+        "fen": "r2q1r1k/ppp2Bnp/2npPp1n/3NpP2/6Q1/2PP4/P1P2PPP/R3K2R[Bbb] w KQ - 7 24",
+        "solution": [
+            "g4g7",
+            "h8g7",
+            "N@h5",
+            "g7h8",
+            "B@g7"
+        ],
+        "url": "https://lichess.org/DjI7LTEo",
+        "white": "rotkehlchen97",
+        "black": "Turkulainen",
+        "white_elo": "1897",
+        "black_elo": "1733",
+        "time_control": "300+3",
+        "date": "2026.03.09"
+    },
+    {
+        "mate_in": 3,
+        "fen": "r2q3r/pp2bBkp/2n1Pp1n/3pbPpQ/2p5/8/PPP2PPP/R4RK1[Bnnp] w - - 2 28",
+        "solution": [
+            "h5h6",
+            "g7h6",
+            "N@g4",
+            "h6g7",
+            "B@h6"
+        ],
+        "url": "https://lichess.org/K5Yhoe2n",
+        "white": "noppengummi",
+        "black": "Kurznoppe",
+        "white_elo": "1419",
+        "black_elo": "1483",
+        "time_control": "600+3",
+        "date": "2026.03.09"
+    },
+    {
+        "mate_in": 3,
+        "fen": "r1b2kN1/pppppp2/8/4Q3/4P3/2pP4/PP3PPP/RNB1KB1R[RNPPqbn] b KQ - 0 19",
+        "solution": [
+            "N@c2",
+            "e1e2",
+            "B@g4",
+            "P@f3",
+            "Q@e1"
+        ],
+        "url": "https://lichess.org/xAxjBGwG",
+        "white": "Matiascondoblet",
+        "black": "POBEST84",
+        "white_elo": "1750",
+        "black_elo": "1675",
+        "time_control": "900+0",
+        "date": "2026.03.09"
+    },
+    {
+        "mate_in": 3,
+        "fen": "rn4k1/pppp2pp/3p4/4p1b1/4PnK1/3P2Pn/PPP2r1P/RN1Q4[QBBBrp] w - - 0 21",
+        "solution": [
+            "Q@e8",
+            "R@f8",
+            "B@f7",
+            "g8h8",
+            "e8f8"
+        ],
+        "url": "https://lichess.org/gwh6ntHs",
+        "white": "godo1",
+        "black": "TheLizard11",
+        "white_elo": "2041",
+        "black_elo": "2080",
+        "time_control": "180+0",
+        "date": "2026.03.09"
+    },
+    {
+        "mate_in": 3,
+        "fen": "r1b1k2r/ppp2ppp/3p4/3P2qN/3p4/3Pp2N/PPP1BbPP/R2Q1R1K[BNn] b kq - 5 15",
+        "solution": [
+            "g5g2",
+            "h1g2",
+            "N@h4",
+            "g2h1",
+            "P@g2"
+        ],
+        "url": "https://lichess.org/wMP0qU8y",
+        "white": "SilentZHman",
+        "black": "atomiclearner1",
+        "white_elo": "1946",
+        "black_elo": "2082",
+        "time_control": "60+0",
+        "date": "2026.03.10"
+    },
+    {
+        "mate_in": 3,
+        "fen": "3r4/1p4k1/p3Pb1p/q1p2Ppn/4P3/5P2/PPPP2PP/R3K2R[RBBBNqnnp] w KQ - 0 29",
+        "solution": [
+            "R@f7",
+            "g7g8",
+            "B@h7",
+            "g8h8",
+            "N@g6"
+        ],
+        "url": "https://lichess.org/ZshIMs6w",
+        "white": "Fitschel",
+        "black": "KOJEKUDE",
+        "white_elo": "1900",
+        "black_elo": "1855",
+        "time_control": "180+2",
+        "date": "2026.03.10"
+    },
+    {
+        "mate_in": 3,
+        "fen": "r1b1k2r/p2p1ppp/bb1Q1p2/4p3/4N3/2B1P3/PP3PPP/R3K2R[Nqnnppp] w KQ - 2 25",
+        "solution": [
+            "e4f6",
+            "g7f6",
+            "N@g7",
+            "e8d8",
+            "P@e7"
+        ],
+        "url": "https://lichess.org/u3iG98Qf",
+        "white": "WILMARK18",
+        "black": "jebehe",
+        "white_elo": "1701",
+        "black_elo": "1981",
+        "time_control": "180+2",
+        "date": "2026.03.11"
+    },
+    {
+        "mate_in": 3,
+        "fen": "r2B~1rk1/ppp2ppp/8/3P4/4np2/2P5/PBP2PPP/R4RK1[QBNNqbbnp] b - - 0 25",
+        "solution": [
+            "N@e2",
+            "g1h1",
+            "Q@g1",
+            "f1g1",
+            "e4f2"
+        ],
+        "url": "https://lichess.org/poax6yqs",
+        "white": "confoundthewise",
+        "black": "Ivan100_100",
+        "white_elo": "1681",
+        "black_elo": "2160",
+        "time_control": "0+3",
+        "date": "2026.03.11"
+    },
+    {
+        "mate_in": 3,
+        "fen": "r1b1k1nr/ppp2ppp/2n5/1B1p4/3P4/8/P1P1BPPP/2qRK2R[QBNPPnp] b kq - 2 22",
+        "solution": [
+            "P@d2",
+            "e1f1",
+            "c1d1",
+            "e2d1",
+            "R@e1"
+        ],
+        "url": "https://lichess.org/gxogBtll",
+        "white": "Silklin",
+        "black": "DaniKeller",
+        "white_elo": "1920",
+        "black_elo": "2245",
+        "time_control": "180+0",
+        "date": "2026.03.11"
+    },
+    {
+        "mate_in": 3,
+        "fen": "r1bq3r/pppp3p/2n2pk1/2bB4/3nP3/3P2P1/PP2N1PP/1R3RK1[BNPPqp] b - - 0 20",
+        "solution": [
+            "d4e2",
+            "g1h1",
+            "Q@g1",
+            "f1g1",
+            "N@f2"
+        ],
+        "url": "https://lichess.org/B4rsFeI9",
+        "white": "BCLF",
+        "black": "kleinerzocker0473",
+        "white_elo": "1703",
+        "black_elo": "1683",
+        "time_control": "300+3",
+        "date": "2026.03.11"
+    },
+    {
+        "mate_in": 3,
+        "fen": "r3kb1r/pp3ppp/3pPn2/3Pp3/8/2N2nNP/PPP2P1P/R1Bb1R1K[QBqp] b kq - 3 17",
+        "solution": [
+            "P@g2",
+            "h1g2",
+            "f3h4",
+            "g2g1",
+            "Q@g2"
+        ],
+        "url": "https://lichess.org/i601Y3EJ",
+        "white": "eyieyii3",
+        "black": "SadisticWinner",
+        "white_elo": "2428",
+        "black_elo": "2247",
+        "time_control": "30+0",
+        "date": "2026.03.11"
+    },
+    {
+        "mate_in": 3,
+        "fen": "r1bq1r2/ppp2p1k/3p3p/2PP3B/4p1n1/7B/PP3PPP/3R1RK1[BNNPPqn] b - - 0 19",
+        "solution": [
+            "N@e2",
+            "g1h1",
+            "Q@g1",
+            "f1g1",
+            "g4f2"
+        ],
+        "url": "https://lichess.org/WR5YsR1O",
+        "white": "ciw",
+        "black": "hardeywale",
+        "white_elo": "2466",
+        "black_elo": "2298",
+        "time_control": "60+0",
+        "date": "2026.03.12"
+    },
+    {
+        "mate_in": 3,
+        "fen": "r6k/pppN1pqp/3pBB2/4bP2/3p4/3P4/PPP2PPP/2RQ1RK1[NNPrbn] b - - 3 32",
+        "solution": [
+            "N@h3",
+            "g1h1",
+            "R@g1",
+            "f1g1",
+            "h3f2"
+        ],
+        "url": "https://lichess.org/VaeSepj2",
+        "white": "innoce",
+        "black": "stst6969",
+        "white_elo": "1769",
+        "black_elo": "1981",
+        "time_control": "180+2",
+        "date": "2026.03.12"
+    },
+    {
+        "mate_in": 3,
+        "fen": "r3k1r1/ppp2p1p/2n2P1B/3p4/3Pn3/2nBQB1n/P1P2PPP/R4R1K[Bqppp] b q - 0 19",
+        "solution": [
+            "Q@g1",
+            "f1g1",
+            "h3f2",
+            "e3f2",
+            "e4f2"
+        ],
+        "url": "https://lichess.org/LiXGFu4g",
+        "white": "bzdybowicz",
+        "black": "mraquariyaz67",
+        "white_elo": "2730",
+        "black_elo": "2660",
+        "time_control": "30+0",
+        "date": "2026.03.12"
+    },
+    {
+        "mate_in": 3,
+        "fen": "3r1rk1/ppp2ppp/3p4/2bPp1N1/4P3/2N5/PPP2P2/R2Q1bK1[QBNrbnpp] w - - 0 15",
+        "solution": [
+            "N@e7",
+            "g8h8",
+            "Q@g8",
+            "f8g8",
+            "g5f7"
+        ],
+        "url": "https://lichess.org/MZNmCV5j",
+        "white": "mauroampie",
+        "black": "snappie",
+        "white_elo": "2125",
+        "black_elo": "2248",
+        "time_control": "120+0",
+        "date": "2026.03.13"
+    },
+    {
+        "mate_in": 3,
+        "fen": "r2k3r/ppp1brp1/5nKp/N3pP1P/2Bn3P/3P4/PPP5/R1BQ4[QBNPpp] b - - 0 38",
+        "solution": [
+            "P@h7",
+            "g6f7",
+            "h8f8",
+            "f7g7",
+            "d4f5"
+        ],
+        "url": "https://lichess.org/KwSHUFN6",
+        "white": "JemBok",
+        "black": "rachl1",
+        "white_elo": "1977",
+        "black_elo": "2177",
+        "time_control": "60+4",
+        "date": "2026.03.13"
+    },
+    {
+        "mate_in": 3,
+        "fen": "r1bq1rk1/ppp2p1p/3p1B1p/3Np3/2B1P1n1/3P4/PPP2KPP/R2Q3R[BNnp] w - - 1 12",
+        "solution": [
+            "d1g4",
+            "c8g4",
+            "N@e7",
+            "d8e7",
+            "d5e7"
+        ],
+        "url": "https://lichess.org/fyaIbFEc",
+        "white": "failthas",
+        "black": "Frodobagins1",
+        "white_elo": "1940",
+        "black_elo": "1904",
+        "time_control": "180+2",
+        "date": "2026.03.13"
+    },
+    {
+        "mate_in": 3,
+        "fen": "r1bq2kr/ppp3pp/2np4/2b1N3/4P3/2NP2pP/PPP2RP1/R1BQ2K1[NPPb] w - - 1 11",
+        "solution": [
+            "P@f7",
+            "g8f8",
+            "N@g6",
+            "h7g6",
+            "e5g6"
+        ],
+        "url": "https://lichess.org/GlgBUohj",
+        "white": "Mini_verse",
+        "black": "JAYCLARKSAVAGE",
+        "white_elo": "2181",
+        "black_elo": "1807",
+        "time_control": "60+1",
+        "date": "2026.03.13"
+    },
+    {
+        "mate_in": 3,
+        "fen": "r4rk1/ppp2ppp/3p4/3P2N1/2NP1p2/3n4/PP3PPP/R4RK1[QBBBPqbn] b - - 0 20",
+        "solution": [
+            "N@e2",
+            "g1h1",
+            "Q@g1",
+            "f1g1",
+            "d3f2"
+        ],
+        "url": "https://lichess.org/3hnvFklK",
+        "white": "Kai-Hiwatari19",
+        "black": "bomberzocker",
+        "white_elo": "2174",
+        "black_elo": "2015",
+        "time_control": "180+0",
+        "date": "2026.03.13"
+    },
+    {
+        "mate_in": 3,
+        "fen": "2r1kr2/1Qpb1ppp/3p1P2/2B2b2/1ppPp3/8/PPP1nPPP/RN2K2R[Nqbn] w KQ - 0 24",
+        "solution": [
+            "b7c8",
+            "d7c8",
+            "R@e7",
+            "e8d8",
+            "N@c6"
+        ],
+        "url": "https://lichess.org/FGeW0XaE",
+        "white": "stillanon2",
+        "black": "Rabozo",
+        "white_elo": "2018",
+        "black_elo": "2240",
+        "time_control": "120+3",
+        "date": "2026.03.14"
+    },
+    {
+        "mate_in": 3,
+        "fen": "N6r/p1Q2ppp/2pBp1k1/3p2B1/6n1/b1P1P3/P1P2PPP/Q4RK1[RNrbnpp] b - - 0 24",
+        "solution": [
+            "N@e2",
+            "g1h1",
+            "R@g1",
+            "f1g1",
+            "g4f2"
+        ],
+        "url": "https://lichess.org/5aaMqrAs",
+        "white": "ilnur1609",
+        "black": "skimeric",
+        "white_elo": "1936",
+        "black_elo": "1856",
+        "time_control": "180+2",
+        "date": "2026.03.14"
+    },
+    {
+        "mate_in": 3,
+        "fen": "r1k5/p1n1Qp1p/2p2p2/7p/1B1P1n2/8/PPP2PPP/R3K2R[NPqrbbbnpp] w KQ - 2 31",
+        "solution": [
+            "N@d6",
+            "c8b8",
+            "e7d8",
+            "R@c8",
+            "d8c8"
+        ],
+        "url": "https://lichess.org/XLXBjneM",
+        "white": "vectorveld",
+        "black": "Venera11",
+        "white_elo": "2487",
+        "black_elo": "2163",
+        "time_control": "180+0",
+        "date": "2026.03.14"
+    },
+    {
+        "mate_in": 3,
+        "fen": "r2qkb1r/p1ppn1pp/1pn1p1R1/4P2b/3P1P1P/3B4/PPP5/R1B1K3[NPPqn] w Q - 0 15",
+        "solution": [
+            "P@f7",
+            "e8f7",
+            "N@g5",
+            "f7g8",
+            "P@f7"
+        ],
+        "url": "https://lichess.org/MOI8agre",
+        "white": "jumangulov_ravil",
+        "black": "amadii69",
+        "white_elo": "1665",
+        "black_elo": "1698",
+        "time_control": "180+2",
+        "date": "2026.03.14"
+    },
+    {
+        "mate_in": 3,
+        "fen": "r1b1k2r/1pp2ppp/p1p1p2N/4P3/3P3B/2P1bP1n/P1P2P1P/R4R1K[QNNqb] b kq - 0 20",
+        "solution": [
+            "B@g2",
+            "h1g2",
+            "h3f4",
+            "g2h1",
+            "Q@g2"
+        ],
+        "url": "https://lichess.org/F6FH4uHQ",
+        "white": "SharpCircuit",
+        "black": "avemaria2025",
+        "white_elo": "2247",
+        "black_elo": "2255",
+        "time_control": "60+0",
+        "date": "2026.03.15"
+    },
+    {
+        "mate_in": 3,
+        "fen": "rn2k2r/ppp3p1/6p1/4PpN1/8/Pp2P2P/1PP2PP1/R1BK1B1R[Qqbbnnp] w - - 2 21",
+        "solution": [
+            "Q@f7",
+            "e8d8",
+            "g5e6",
+            "d8c8",
+            "f7c7"
+        ],
+        "url": "https://lichess.org/8HrvM5eT",
+        "white": "Vishranj20",
+        "black": "Doria44",
+        "white_elo": "1481",
+        "black_elo": "1685",
+        "time_control": "180+2",
+        "date": "2026.03.15"
+    },
+    {
+        "mate_in": 3,
+        "fen": "rnb2k1r/ppp3pp/8/3PP3/2N3nP/8/PPP2PPP/R4RK1[QBBBPqnp] b - - 0 22",
+        "solution": [
+            "N@e2",
+            "g1h1",
+            "Q@g1",
+            "f1g1",
+            "g4f2"
+        ],
+        "url": "https://lichess.org/xJHzpGgd",
+        "white": "huni11",
+        "black": "dominrus1",
+        "white_elo": "2067",
+        "black_elo": "2135",
+        "time_control": "120+2",
+        "date": "2026.03.15"
+    },
+    {
+        "mate_in": 3,
+        "fen": "r4k1r/2pPbpp1/p1p4p/4B3/4n3/1N6/PPP2PPP/3R1RK1[QNPPqbbnp] b - - 0 18",
+        "solution": [
+            "N@e2",
+            "g1h1",
+            "Q@g1",
+            "f1g1",
+            "e4f2"
+        ],
+        "url": "https://lichess.org/TkZykXxg",
+        "white": "PirateChain7",
+        "black": "Pono1",
+        "white_elo": "1698",
+        "black_elo": "1645",
+        "time_control": "30+6",
+        "date": "2026.03.15"
+    },
+    {
+        "mate_in": 3,
+        "fen": "rnbkn1RB/1pp1bp1p/p2ppP2/8/2P5/2P2b2/PP3PPP/R2R2K1[QNPqn] b - - 3 18",
+        "solution": [
+            "N@h3",
+            "g1h1",
+            "Q@g1",
+            "d1g1",
+            "h3f2"
+        ],
+        "url": "https://lichess.org/9S6HmOpc",
+        "white": "Ovcharenko_Juriy",
+        "black": "Juson",
+        "white_elo": "1933",
+        "black_elo": "1823",
+        "time_control": "120+2",
+        "date": "2026.03.16"
+    },
+    {
+        "mate_in": 3,
+        "fen": "1B1Bnk1r/ppP2ppp/2p5/5b2/3q4/3p4/PPP1QPPP/R3K1NR[Nrbnpp] w KQ - 0 19",
+        "solution": [
+            "e2e7",
+            "f8g8",
+            "e7e8",
+            "R@f8",
+            "N@e7"
+        ],
+        "url": "https://lichess.org/iSfJz8k8",
+        "white": "NR00",
+        "black": "SpeakingTheTruth",
+        "white_elo": "1843",
+        "black_elo": "1806",
+        "time_control": "60+0",
+        "date": "2026.03.16"
+    },
+    {
+        "mate_in": 3,
+        "fen": "r1bN1q2/ppp3pk/6p1/3pPpBp/3P4/2P2n2/PP3PPP/4RR1K[QBBrnn] b - - 2 41",
+        "solution": [
+            "N@g3",
+            "f2g3",
+            "R@g1",
+            "f1g1",
+            "N@f2"
+        ],
+        "url": "https://lichess.org/H0QZF4Vg",
+        "white": "sharkmeister",
+        "black": "pknm",
+        "white_elo": "2438",
+        "black_elo": "2542",
+        "time_control": "180+2",
+        "date": "2026.03.16"
+    },
+    {
+        "mate_in": 3,
+        "fen": "4kb1r/ppp2ppp/2n1pn2/8/4P2n/8/PPP1BPPP/R4RK1[QRBPPqbn] b k - 0 16",
+        "solution": [
+            "N@h3",
+            "g1h1",
+            "Q@g1",
+            "f1g1",
+            "h3f2"
+        ],
+        "url": "https://lichess.org/BObmQHzY",
+        "white": "Ewyn",
+        "black": "emrty",
+        "white_elo": "2061",
+        "black_elo": "2493",
+        "time_control": "60+0",
+        "date": "2026.03.17"
+    },
+    {
+        "mate_in": 3,
+        "fen": "2Q2bk1/1pp1rpp1/p1p5/P5p1/2P1B3/2PN2PP/1Pn1KP1R/R4N2[Bqrbnpp] w - - 0 58",
+        "solution": [
+            "B@h7",
+            "g8h8",
+            "c8f8",
+            "R@g8",
+            "f8g8"
+        ],
+        "url": "https://lichess.org/nJTrv85K",
+        "white": "bkdp",
+        "black": "KLIMENKO_V",
+        "white_elo": "1973",
+        "black_elo": "1952",
+        "time_control": "60+3",
+        "date": "2026.03.17"
+    },
+    {
+        "mate_in": 3,
+        "fen": "rn2kbnr/pQp1pppp/6b1/8/3q4/2NP1N2/PP2KpPP/R1B2B1R[PPPp] b kq - 0 9",
+        "solution": [
+            "g6d3",
+            "e2d1",
+            "P@c2",
+            "d1d2",
+            "P@e3"
+        ],
+        "url": "https://lichess.org/qPriXr9q",
+        "white": "PatserFasul",
+        "black": "Sithufruit",
+        "white_elo": "1489",
+        "black_elo": "1815",
+        "time_control": "300+3",
+        "date": "2026.03.17"
+    },
+    {
+        "mate_in": 3,
+        "fen": "r6N/p1pknQ~pp/2pp4/2b3q1/4P3/4p3/PPP3PP/RNBQ1KNr[Brbpp] w - - 1 25",
+        "solution": [
+            "B@e6",
+            "d7d8",
+            "f7f8",
+            "R@e8",
+            "h8f7"
+        ],
+        "url": "https://lichess.org/b9AqDuD5",
+        "white": "stst6969",
+        "black": "Kaffeemaschine3000",
+        "white_elo": "1982",
+        "black_elo": "1947",
+        "time_control": "180+0",
+        "date": "2026.03.17"
+    },
+    {
+        "mate_in": 3,
+        "fen": "rn1q1k1r/ppp1bBpp/3pPn1B/4p3/4P3/5p2/PPP2PPP/RN2K2R[Nqb] w KQ - 0 15",
+        "solution": [
+            "h6g7",
+            "f8g7",
+            "N@f5",
+            "g7f8",
+            "P@g7"
+        ],
+        "url": "https://lichess.org/pW8UeGo2",
+        "white": "megahertz_13",
+        "black": "isaacchanosborn",
+        "white_elo": "2044",
+        "black_elo": "1890",
+        "time_control": "60+0",
+        "date": "2026.03.17"
+    },
+    {
+        "mate_in": 3,
+        "fen": "r1bqkbnr/pp1ppppp/4n3/2pN4/4P3/5Q2/PPPP1PPP/R1B1KB1R[N] w KQkq - 1 6",
+        "solution": [
+            "f3f7",
+            "e8f7",
+            "N@e5",
+            "f7e8",
+            "P@f7"
+        ],
+        "url": "https://lichess.org/7vSskhCx",
+        "white": "Anthonyoja",
+        "black": "spicypearl8",
+        "white_elo": "2251",
+        "black_elo": "1818",
+        "time_control": "60+1",
+        "date": "2026.03.17"
+    },
+    {
+        "mate_in": 3,
+        "fen": "r3r3/ppBnPpkp/3ppp2/8/2nP3B/5N2/P1P2PPP/R4RK1[Qqbbnpp] w - - 0 22",
+        "solution": [
+            "h4f6",
+            "d7f6",
+            "P@h6",
+            "g7h6",
+            "Q@g5"
+        ],
+        "url": "https://lichess.org/IipM6UXC",
+        "white": "Murphy_the_Irish_red",
+        "black": "RenaudW51100",
+        "white_elo": "2077",
+        "black_elo": "1884",
+        "time_control": "180+2",
+        "date": "2026.03.17"
+    },
+    {
+        "mate_in": 3,
+        "fen": "r4rk1/ppp2ppp/5p2/3p4/1b1np3/2N2b1B/PPPP1PRP/R6K[QBNNPq] w - - 5 21",
+        "solution": [
+            "N@h6",
+            "g8h8",
+            "Q@g8",
+            "f8g8",
+            "h6f7"
+        ],
+        "url": "https://lichess.org/UzutWWSW",
+        "white": "yenes15",
+        "black": "CheckYour_Enthusiasm",
+        "white_elo": "1618",
+        "black_elo": "2054",
+        "time_control": "300+0",
+        "date": "2026.03.18"
+    },
+    {
+        "mate_in": 3,
+        "fen": "r2q1r1k/ppp2p1p/1bp4N/2b2P2/8/3P4/PPP2PPP/RNB2QK1[NPPrbn] w - - 1 15",
+        "solution": [
+            "P@g7",
+            "h8g7",
+            "N@h5",
+            "g7h8",
+            "P@g7"
+        ],
+        "url": "https://lichess.org/tqol4pF9",
+        "white": "abuyuval",
+        "black": "gone_the_swan",
+        "white_elo": "1812",
+        "black_elo": "1884",
+        "time_control": "240+0",
+        "date": "2026.03.18"
+    },
+    {
+        "mate_in": 3,
+        "fen": "4N1k1/3nbppp/1p1pp2P/p7/P1P5/5R2/1P2pPPP/5R1K[QBBNPqrrbn] w - - 3 35",
+        "solution": [
+            "Q@h8",
+            "g8h8",
+            "h6g7",
+            "h8g8",
+            "N@h6"
+        ],
+        "url": "https://lichess.org/qX00G7gV",
+        "white": "jonathanasphalt2014",
+        "black": "shiawasebutori",
+        "white_elo": "1889",
+        "black_elo": "2095",
+        "time_control": "0+3",
+        "date": "2026.03.18"
+    },
+    {
+        "mate_in": 3,
+        "fen": "r4Bk1/5ppp/2pp4/pp2p3/4Pn2/1BPP4/PP3PPP/R4RK1[QRBBNqnn] b - - 0 18",
+        "solution": [
+            "N@h3",
+            "g1h1",
+            "Q@g1",
+            "f1g1",
+            "h3f2"
+        ],
+        "url": "https://lichess.org/ZVEKju4r",
+        "white": "RenaudW51100",
+        "black": "POSPANKO",
+        "white_elo": "1876",
+        "black_elo": "1986",
+        "time_control": "180+0",
+        "date": "2026.03.18"
+    },
+    {
+        "mate_in": 3,
+        "fen": "1nbq1rk1/2p2ppp/4pb2/2Pp4/3Pp3/4P3/4BPNP/B2Q1RK1[RNPPPPrn] b - - 2 21",
+        "solution": [
+            "N@h3",
+            "g1h1",
+            "R@g1",
+            "f1g1",
+            "h3f2"
+        ],
+        "url": "https://lichess.org/UiKqephT",
+        "white": "Rt1221",
+        "black": "AGGELOSVELO",
+        "white_elo": "1848",
+        "black_elo": "2049",
+        "time_control": "180+0",
+        "date": "2026.03.19"
+    },
+    {
+        "mate_in": 3,
+        "fen": "rnb2k1r/ppp3pp/3pP1b1/2np1PQ1/1KBq4/8/PPPP2PP/RNB3NR[P] w - - 7 17",
+        "solution": [
+            "g5d8",
+            "g6e8",
+            "P@e7",
+            "f8g8",
+            "d8e8"
+        ],
+        "url": "https://lichess.org/6NXIw0by",
+        "white": "Pemain_hampa",
+        "black": "B4N654T",
+        "white_elo": "1776",
+        "black_elo": "1852",
+        "time_control": "180+0",
+        "date": "2026.03.19"
+    },
+    {
+        "mate_in": 3,
+        "fen": "r3kb1r/ppp3pp/2n2n2/4p1N1/3P4/2P5/PP3PPP/R1BqnK1R[QPPbbp] w - - 2 14",
+        "solution": [
+            "Q@f7",
+            "e8d8",
+            "g5e6",
+            "d8c8",
+            "f7c7"
+        ],
+        "url": "https://lichess.org/sswvlMW7",
+        "white": "PEBELS-350",
+        "black": "FeliXmOM",
+        "white_elo": "2094",
+        "black_elo": "2020",
+        "time_control": "300+0",
+        "date": "2026.03.19"
+    },
+    {
+        "mate_in": 3,
+        "fen": "1rq4r/pp3pp1/kB2pn1p/1bPp4/p7/1Q2P3/1P3PPP/R3K2R[Pbbnnnp] w K - 2 30",
+        "solution": [
+            "a1a4",
+            "b5a4",
+            "b3a4",
+            "B@a5",
+            "a4a5"
+        ],
+        "url": "https://lichess.org/pp1ewBpf",
+        "white": "R_e_S_t",
+        "black": "sultandelswing",
+        "white_elo": "1932",
+        "black_elo": "1734",
+        "time_control": "180+2",
+        "date": "2026.03.19"
+    },
+    {
+        "mate_in": 3,
+        "fen": "r2Nkb1r/ppp3pp/4pn2/3p4/3P1B2/4P3/PPP2PPP/RN1bK2R[QPqbn] w KQkq - 0 10",
+        "solution": [
+            "Q@f7",
+            "e8d8",
+            "f7c7",
+            "d8e8",
+            "P@f7"
+        ],
+        "url": "https://lichess.org/07OpIxH6",
+        "white": "vit_muzurov",
+        "black": "laki12314",
+        "white_elo": "1911",
+        "black_elo": "1906",
+        "time_control": "300+0",
+        "date": "2026.03.19"
+    },
+    {
+        "mate_in": 3,
+        "fen": "rnb1k2r/ppp2ppp/4pP2/5b2/8/5K2/PPPq1PPP/R4BNR[QBNNPp] b kq - 2 12",
+        "solution": [
+            "P@e4",
+            "f3g3",
+            "d2g5",
+            "N@g4",
+            "g5g4"
+        ],
+        "url": "https://lichess.org/poi3GQaH",
+        "white": "sashwin2023",
+        "black": "Strange_Brew_1",
+        "white_elo": "1274",
+        "black_elo": "1705",
+        "time_control": "600+0",
+        "date": "2026.03.20"
+    },
+    {
+        "mate_in": 3,
+        "fen": "r2q1rk1/p1p1Ppp1/2p2n1p/3p1N2/8/2N2pPP/PPQ2PbK/5R2[BBBNPPr] b - - 3 28",
+        "solution": [
+            "f6g4",
+            "h3g4",
+            "R@h3",
+            "h2g1",
+            "h3h1"
+        ],
+        "url": "https://lichess.org/yJ1Yzbza",
+        "white": "Tjierrek",
+        "black": "scscsc",
+        "white_elo": "2094",
+        "black_elo": "1910",
+        "time_control": "60+4",
+        "date": "2026.03.20"
+    },
+    {
+        "mate_in": 3,
+        "fen": "r4rk1/6bp/2pNp1p1/4p1Pn/p3P3/P1N2bpP/1PP3RB/R4B1K[QNPqpp] w - - 0 30",
+        "solution": [
+            "N@e7",
+            "g8h8",
+            "Q@g8",
+            "f8g8",
+            "d6f7"
+        ],
+        "url": "https://lichess.org/3iKco1hL",
+        "white": "BB_thegame",
+        "black": "LorenzoUbaldo",
+        "white_elo": "2145",
+        "black_elo": "1688",
+        "time_control": "180+2",
+        "date": "2026.03.20"
+    },
+    {
+        "mate_in": 3,
+        "fen": "r2r2k1/ppp1Bpp1/4p2p/4P3/4p2n/P3P3/1PP1BPPP/R4RK1[QNNqbbn] b - - 1 20",
+        "solution": [
+            "N@h3",
+            "g1h1",
+            "Q@g1",
+            "f1g1",
+            "h3f2"
+        ],
+        "url": "https://lichess.org/vig2Ilpz",
+        "white": "FIELA1530",
+        "black": "gr2224gr",
+        "white_elo": "1911",
+        "black_elo": "2213",
+        "time_control": "60+2",
+        "date": "2026.03.20"
+    },
+    {
+        "mate_in": 3,
+        "fen": "r4rk1/ppB2ppp/3p4/2b1p3/2BNPn2/3P4/PPP2PPP/3R1RK1[QBNPqn] b - - 0 12",
+        "solution": [
+            "N@h3",
+            "g1h1",
+            "Q@g1",
+            "f1g1",
+            "h3f2"
+        ],
+        "url": "https://lichess.org/yuJCdlo0",
+        "white": "den2008den",
+        "black": "At0mk",
+        "white_elo": "2073",
+        "black_elo": "2282",
+        "time_control": "60+0",
+        "date": "2026.03.20"
+    },
+    {
+        "mate_in": 3,
+        "fen": "r3k2r/ppp1bpp1/4p3/4Nb2/3PnP1p/6pP/PP2B1P1/R1BQ1RK1[QNPnp] b kq - 0 14",
+        "solution": [
+            "P@h2",
+            "g1h1",
+            "N@f2",
+            "f1f2",
+            "e4f2"
+        ],
+        "url": "https://lichess.org/vMMzHlez",
+        "white": "Mr_Poleanu",
+        "black": "JannLee",
+        "white_elo": "1861",
+        "black_elo": "2724",
+        "time_control": "180+2",
+        "date": "2026.03.21"
+    },
+    {
+        "mate_in": 3,
+        "fen": "r4kbR/pp1b1pp1/3Pp1p1/3n4/8/5PPP/PP1p1PB1/4R1K1[BNqqrnnpp] w - - 2 39",
+        "solution": [
+            "N@h7",
+            "f8e8",
+            "h8g8",
+            "R@f8",
+            "g8f8"
+        ],
+        "url": "https://lichess.org/jejixUxV",
+        "white": "tsvibt",
+        "black": "piano_231",
+        "white_elo": "2155",
+        "black_elo": "2020",
+        "time_control": "60+4",
+        "date": "2026.03.21"
+    },
+    {
+        "mate_in": 3,
+        "fen": "rn2kbnr/pp2pppp/2p3P1/8/3P4/2P1BNP1/P1bK1PPP/7R[QRBPqn] b kq - 0 16",
+        "solution": [
+            "Q@d3",
+            "d2c1",
+            "N@e2",
+            "c1b2",
+            "d3c3"
+        ],
+        "url": "https://lichess.org/y8WXvyL5",
+        "white": "l33t_sas",
+        "black": "nedalouf",
+        "white_elo": "2073",
+        "black_elo": "1677",
+        "time_control": "180+2",
+        "date": "2026.03.22"
+    },
+    {
+        "mate_in": 3,
+        "fen": "3r1rk1/1pp2pp1/p1b3p1/4Q3/2P5/3P4/P3BPPP/5RK1[QBNNNrbnpppp] b - - 0 25",
+        "solution": [
+            "N@h3",
+            "g1h1",
+            "R@g1",
+            "f1g1",
+            "h3f2"
+        ],
+        "url": "https://lichess.org/NDU4nlqM",
+        "white": "aaylk",
+        "black": "enocent",
+        "white_elo": "1789",
+        "black_elo": "1767",
+        "time_control": "60+5",
+        "date": "2026.03.22"
+    },
+    {
+        "mate_in": 3,
+        "fen": "rn2r1k1/pp3ppp/2pp3P/1P6/P2Pp1n1/5qP1/1PP2PQ1/R3R1K1[BBBBNN] b - - 6 28",
+        "solution": [
+            "f3g2",
+            "g1g2",
+            "Q@h2",
+            "g2f1",
+            "h2f2"
+        ],
+        "url": "https://lichess.org/U0yZJHiZ",
+        "white": "DiviniQ",
+        "black": "twinsdriver",
+        "white_elo": "1633",
+        "black_elo": "1615",
+        "time_control": "300+0",
+        "date": "2026.03.22"
+    },
+    {
+        "mate_in": 3,
+        "fen": "3B3k/p2n1Bpp/2p2p2/4pP2/P5P1/2P1Bp2/1P4rP/3Q3K[QRNNNPPPrrb] b - - 0 39",
+        "solution": [
+            "g2h2",
+            "h1h2",
+            "R@g2",
+            "h2h3",
+            "R@h2"
+        ],
+        "url": "https://lichess.org/ofq6xG5e",
+        "white": "Anastasias_Matt",
+        "black": "chess_2_Pi",
+        "white_elo": "1788",
+        "black_elo": "1919",
+        "time_control": "600+0",
+        "date": "2026.03.22"
+    },
+    {
+        "mate_in": 3,
+        "fen": "rn2k2r/ppp2ppp/8/5n2/8/2N2Pp1/PPP2qP1/R1BK1B1R[QBBPPPPn] b kq - 6 16",
+        "solution": [
+            "N@e3",
+            "c1e3",
+            "f5e3",
+            "d1c1",
+            "f2c2"
+        ],
+        "url": "https://lichess.org/6K8YKpYH",
+        "white": "Danny426850",
+        "black": "godo1",
+        "white_elo": "2145",
+        "black_elo": "2001",
+        "time_control": "120+2",
+        "date": "2026.03.22"
+    },
+    {
+        "mate_in": 3,
+        "fen": "2k3nQ~/pp3pBp/2pp1np1/4b3/pK6/5P2/PPP1qP1P/R1BN3R[QRRBNP] b - - 0 22",
+        "solution": [
+            "e2b5",
+            "b4a3",
+            "e5b2",
+            "d1b2",
+            "P@b4"
+        ],
+        "url": "https://lichess.org/4IeHoZqF",
+        "white": "Mjellma",
+        "black": "makimaghost",
+        "white_elo": "1900",
+        "black_elo": "1903",
+        "time_control": "180+0",
+        "date": "2026.03.23"
+    },
+    {
+        "mate_in": 3,
+        "fen": "rn2B2k/ppp3bp/3pbp2/8/8/8/PPPP1PNP/RNBQ1RK1[QPPPrnp] b - - 0 15",
+        "solution": [
+            "N@h3",
+            "g1h1",
+            "R@g1",
+            "f1g1",
+            "h3f2"
+        ],
+        "url": "https://lichess.org/Z89WGXgj",
+        "white": "Taepper",
+        "black": "pppmun1971",
+        "white_elo": "1733",
+        "black_elo": "1851",
+        "time_control": "180+0",
+        "date": "2026.03.23"
+    },
+    {
+        "mate_in": 3,
+        "fen": "rn2kbnr/ppp1qppp/8/3Q4/3p4/1B1P1P2/PPP1pP1P/RNB1K2R[BPn] b kq - 0 12",
+        "solution": [
+            "N@g2",
+            "e1d2",
+            "e2e1q",
+            "h1e1",
+            "e7e1"
+        ],
+        "url": "https://lichess.org/iitOrI4r",
+        "white": "Sarwika",
+        "black": "joechesskiller12",
+        "white_elo": "1305",
+        "black_elo": "1286",
+        "time_control": "300+3",
+        "date": "2026.03.23"
+    },
+    {
+        "mate_in": 3,
+        "fen": "r6r/ppQbkBpp/3p4/4p1N1/6n1/3P4/PPP1K1PP/RNB4R[BNPPPqp] b - - 0 16",
+        "solution": [
+            "Q@f2",
+            "e2d1",
+            "P@e2",
+            "d1d2",
+            "e2e1q"
+        ],
+        "url": "https://lichess.org/dg8AyhpS",
+        "white": "JAYCLARKSAVAGE",
+        "black": "Mini_verse",
+        "white_elo": "1837",
+        "black_elo": "2238",
+        "time_control": "60+1",
+        "date": "2026.03.23"
+    },
+    {
+        "mate_in": 3,
+        "fen": "r2q1k1r/pppbbp1p/8/3pP1PN/8/P2P1N2/1P3P1P/R1BQ1bK1[NPPrnp] b - - 1 17",
+        "solution": [
+            "R@h1",
+            "g1h1",
+            "P@g2",
+            "h1g1",
+            "N@h3"
+        ],
+        "url": "https://lichess.org/omgiBdYJ",
+        "white": "Atomic_singh",
+        "black": "Modos_Gabor",
+        "white_elo": "1979",
+        "black_elo": "1937",
+        "time_control": "180+0",
+        "date": "2026.03.24"
+    },
+    {
+        "mate_in": 3,
+        "fen": "r2q1rk1/pp1n1ppp/2pp1b2/4p3/1PP1P3/3n1P2/P4P1P/6RK[RBBBNNqp] w - - 0 23",
+        "solution": [
+            "N@h6",
+            "g8h8",
+            "R@g8",
+            "f8g8",
+            "h6f7"
+        ],
+        "url": "https://lichess.org/QAD34SZZ",
+        "white": "Ibro12345",
+        "black": "prabhakarpandit",
+        "white_elo": "1590",
+        "black_elo": "1874",
+        "time_control": "900+10",
+        "date": "2026.03.24"
+    },
+    {
+        "mate_in": 3,
+        "fen": "r1b2rk1/ppbp1ppp/3b1p2/3P1N2/3P4/5N2/PPPB1PPP/RN4K1[QNqrp] w - - 2 18",
+        "solution": [
+            "N@h6",
+            "g8h8",
+            "Q@g8",
+            "f8g8",
+            "h6f7"
+        ],
+        "url": "https://lichess.org/f9QugHmf",
+        "white": "securion",
+        "black": "Kayh",
+        "white_elo": "1964",
+        "black_elo": "1915",
+        "time_control": "120+2",
+        "date": "2026.03.24"
+    },
+    {
+        "mate_in": 3,
+        "fen": "r4r1k/ppp2ppp/3p4/2bBp1N1/3nP3/2NP4/PPP2PPP/R4RK1[QNqbb] w - - 1 14",
+        "solution": [
+            "N@g6",
+            "f7g6",
+            "Q@g8",
+            "f8g8",
+            "g5f7"
+        ],
+        "url": "https://lichess.org/BC2wCTYL",
+        "white": "DementeBrillante",
+        "black": "GaboAmaya",
+        "white_elo": "1836",
+        "black_elo": "1326",
+        "time_control": "180+0",
+        "date": "2026.03.25"
+    },
+    {
+        "mate_in": 3,
+        "fen": "r2q1r1k/p3bPpp/2ppBnpB/4p3/4P1N1/2N5/PPP2PPP/R4RK1[Pqbn] w - - 1 29",
+        "solution": [
+            "h6g7",
+            "h8g7",
+            "P@h6",
+            "g7h8",
+            "P@g7"
+        ],
+        "url": "https://lichess.org/fAMeUtGc",
+        "white": "vegakov",
+        "black": "shai1070",
+        "white_elo": "2139",
+        "black_elo": "2010",
+        "time_control": "60+0",
+        "date": "2026.03.25"
+    },
+    {
+        "mate_in": 3,
+        "fen": "r3kb1r/ppp2ppp/2b2n2/6N1/2Q5/4B3/PqP2PPP/R3K2R[PPbnnppp] w KQkq - 0 15",
+        "solution": [
+            "c4f7",
+            "e8d8",
+            "g5e6",
+            "d8c8",
+            "f7c7"
+        ],
+        "url": "https://lichess.org/kAsL9LG3",
+        "white": "V16Warrier",
+        "black": "sh2030",
+        "white_elo": "1123",
+        "black_elo": "1500",
+        "time_control": "180+0",
+        "date": "2026.03.25"
+    },
+    {
+        "mate_in": 3,
+        "fen": "r1k4N/ppp3pp/2np1b2/4p3/2B1P3/3P1P1n/PPP2P1P/RN3R1K[QRBPqb] b - - 2 14",
+        "solution": [
+            "B@g2",
+            "h1g2",
+            "h3f4",
+            "g2g1",
+            "Q@g2"
+        ],
+        "url": "https://lichess.org/nry8OJGi",
+        "white": "kronz12",
+        "black": "MarianR1",
+        "white_elo": "1940",
+        "black_elo": "2062",
+        "time_control": "180+0",
+        "date": "2026.03.25"
+    },
+    {
+        "mate_in": 3,
+        "fen": "r1b1Qqk1/ppp1bppp/8/3B4/3p2n1/P2P4/1PP2PPP/RNn2R1K[PPrbn] w - - 2 20",
+        "solution": [
+            "d5f7",
+            "g8h8",
+            "e8f8",
+            "e7f8",
+            "Q@g8"
+        ],
+        "url": "https://lichess.org/AyMKNoJW",
+        "white": "voltron1024",
+        "black": "kaislaw",
+        "white_elo": "1537",
+        "black_elo": "1528",
+        "time_control": "600+0",
+        "date": "2026.03.25"
+    },
+    {
+        "mate_in": 3,
+        "fen": "rn3rk1/ppp2npp/4Rp2/3p3P/3P1bP1/2N2P2/PPPP4/2KQqBNR[BBp] b - - 2 19",
+        "solution": [
+            "f4d2",
+            "c1b1",
+            "e1d1",
+            "c3d1",
+            "Q@c1"
+        ],
+        "url": "https://lichess.org/NzNPUlR9",
+        "white": "Cskfan",
+        "black": "JaimeDavid",
+        "white_elo": "1374",
+        "black_elo": "1401",
+        "time_control": "180+3",
+        "date": "2026.03.26"
+    },
+    {
+        "mate_in": 3,
+        "fen": "q4k1r/p1p1b1p1/3p3p/4p2B/4Pn2/2NP4/PPP2PPP/R1B2RK1[RNPqbnp] b - - 0 17",
+        "solution": [
+            "N@h3",
+            "g1h1",
+            "Q@g1",
+            "f1g1",
+            "h3f2"
+        ],
+        "url": "https://lichess.org/oTHYjbkI",
+        "white": "Yy_Qq",
+        "black": "tixupixu",
+        "white_elo": "1754",
+        "black_elo": "1779",
+        "time_control": "90+3",
+        "date": "2026.03.26"
+    },
+    {
+        "mate_in": 3,
+        "fen": "r1b2r2/ppp2ppk/2n1p3/4P2P/5P2/3Pp1nB/PPP1BbPK/R4Q2[QNNPr] b - - 0 24",
+        "solution": [
+            "g3f1",
+            "a1f1",
+            "Q@g3",
+            "h2h1",
+            "R@h2"
+        ],
+        "url": "https://lichess.org/JJ8tYUBn",
+        "white": "Maxime109",
+        "black": "Super-Super",
+        "white_elo": "2071",
+        "black_elo": "2483",
+        "time_control": "30+0",
+        "date": "2026.03.26"
+    },
+    {
+        "mate_in": 3,
+        "fen": "r1b4k/pppp1ppN/7B/8/2B1qp1N/2p5/PPP2PPP/R2Q1RK1[NPrbnp] b - - 0 26",
+        "solution": [
+            "N@h3",
+            "g1h1",
+            "R@g1",
+            "f1g1",
+            "h3f2"
+        ],
+        "url": "https://lichess.org/i3gPKJb3",
+        "white": "Crazybugg",
+        "black": "Mini_verse",
+        "white_elo": "2293",
+        "black_elo": "2138",
+        "time_control": "60+1",
+        "date": "2026.03.26"
+    },
+    {
+        "mate_in": 3,
+        "fen": "r4rk1/ppp2ppp/3p4/3Np1N1/2P1P3/8/PPP1bPPP/R4RK1[QBqbbnn] w - - 0 19",
+        "solution": [
+            "d5e7",
+            "g8h8",
+            "Q@g8",
+            "f8g8",
+            "g5f7"
+        ],
+        "url": "https://lichess.org/gLtIpXTG",
+        "white": "Shilvahfang",
+        "black": "JuicyKetchup",
+        "white_elo": "2321",
+        "black_elo": "2135",
+        "time_control": "60+0",
+        "date": "2026.03.27"
+    },
+    {
+        "mate_in": 3,
+        "fen": "2R2rk1/p1bnbppp/2N1p3/8/6P1/2N5/PPbP1P1P/R1B1KQNq~[PPqrpp] w Q - 0 19",
+        "solution": [
+            "c6e7",
+            "g8h8",
+            "c8f8",
+            "d7f8",
+            "R@g8"
+        ],
+        "url": "https://lichess.org/hvHVvzW3",
+        "white": "Ogoogoo",
+        "black": "enocent",
+        "white_elo": "1544",
+        "black_elo": "1698",
+        "time_control": "60+5",
+        "date": "2026.03.27"
+    },
+    {
+        "mate_in": 3,
+        "fen": "R1n1kb1r/1Q2nppp/2pPb3/2p5/p3P3/8/PPP2PPP/1KBq1B1R[RNPPn] b - - 2 35",
+        "solution": [
+            "N@d2",
+            "b1a1",
+            "d1c1",
+            "R@b1",
+            "c1b1"
+        ],
+        "url": "https://lichess.org/50xX69hx",
+        "white": "SpiderMan-SLCA",
+        "black": "OlegSolo",
+        "white_elo": "1450",
+        "black_elo": "1535",
+        "time_control": "180+2",
+        "date": "2026.03.27"
+    },
+    {
+        "mate_in": 3,
+        "fen": "r4b1r/pp1kpbpp/2n2p2/b2p2p1/3P4/2P5/PP1N1PPP/R3K2R[QNqbnp] w KQ - 0 17",
+        "solution": [
+            "N@c5",
+            "d7c8",
+            "Q@d7",
+            "c8b8",
+            "d7b7"
+        ],
+        "url": "https://lichess.org/IuM0gkd4",
+        "white": "DahliaLynn",
+        "black": "Krasnov_Dmitriy",
+        "white_elo": "2036",
+        "black_elo": "2087",
+        "time_control": "60+0",
+        "date": "2026.03.27"
+    },
+    {
+        "mate_in": 3,
+        "fen": "r3r1k1/1pp2p2/p3p2P/3p1qp1/2n5/2PppPKb/P6P/2R5[QRBBBNNNPP] b - - 4 47",
+        "solution": [
+            "f5f4",
+            "g3h3",
+            "f4f3",
+            "B@g3",
+            "P@g4"
+        ],
+        "url": "https://lichess.org/G3CSvfRa",
+        "white": "farook_rook",
+        "black": "rotkehlchen97",
+        "white_elo": "1997",
+        "black_elo": "1936",
+        "time_control": "180+2",
+        "date": "2026.03.27"
+    },
+    {
+        "mate_in": 3,
+        "fen": "r3k2r/p1pq1ppp/8/3pNp2/1b1P1B2/4Pb2/PPP1BPPP/5RK1[QNNPrn] b kq - 0 18",
+        "solution": [
+            "N@h3",
+            "g1h1",
+            "R@g1",
+            "f1g1",
+            "h3f2"
+        ],
+        "url": "https://lichess.org/eVptlf1m",
+        "white": "TheLizard11",
+        "black": "dominrus1",
+        "white_elo": "2098",
+        "black_elo": "2102",
+        "time_control": "180+0",
+        "date": "2026.03.27"
+    },
+    {
+        "mate_in": 3,
+        "fen": "r1b2rk1/1p3ppp/1p1p4/pP2p3/P1P1Pn2/2Pb1P1n/2Q2P1P/R4NRK[QNbb] w - - 6 26",
+        "solution": [
+            "N@h6",
+            "g8h8",
+            "Q@g8",
+            "f8g8",
+            "h6f7"
+        ],
+        "url": "https://lichess.org/3w6JG9cT",
+        "white": "mnpaulson",
+        "black": "dat-kann",
+        "white_elo": "1683",
+        "black_elo": "1614",
+        "time_control": "180+3",
+        "date": "2026.03.27"
+    },
+    {
+        "mate_in": 3,
+        "fen": "3r2k1/pppn1ppp/3p4/2bPp1N1/2P3b1/2P3P1/PP3nP1/R2Q1RK1[QNrbbp] w - - 0 19",
+        "solution": [
+            "N@e7",
+            "g8f8",
+            "Q@g8",
+            "f8e7",
+            "g8f7"
+        ],
+        "url": "https://lichess.org/D9UjMtdH",
+        "white": "CyrilSnear",
+        "black": "igo2025",
+        "white_elo": "1708",
+        "black_elo": "2183",
+        "time_control": "120+1",
+        "date": "2026.03.27"
+    },
+    {
+        "mate_in": 3,
+        "fen": "1k5r/ppp3pp/2P5/3PpN2/1n4nB/3P2P1/PP3PPP/R4RK1[QRBPqbbn] b - - 2 20",
+        "solution": [
+            "N@e2",
+            "g1h1",
+            "Q@g1",
+            "f1g1",
+            "g4f2"
+        ],
+        "url": "https://lichess.org/NooDQtRs",
+        "white": "Tripleoozz",
+        "black": "mauroampie",
+        "white_elo": "1933",
+        "black_elo": "2104",
+        "time_control": "0+7",
+        "date": "2026.03.27"
+    },
+    {
+        "mate_in": 3,
+        "fen": "bk1r3r/p1p2p1p/PbQp1pb1/2b1p3/4P1P1/3P1N1P/PPP2P2/R2QK2R[Nnn] w KQ - 1 18",
+        "solution": [
+            "c6a8",
+            "b8a8",
+            "B@b7",
+            "a8b8",
+            "N@c6"
+        ],
+        "url": "https://lichess.org/GHiSmHZq",
+        "white": "ETDA_Sebas",
+        "black": "juandiegova08",
+        "white_elo": "1853",
+        "black_elo": "1476",
+        "time_control": "360+0",
+        "date": "2026.03.28"
+    },
+    {
+        "mate_in": 3,
+        "fen": "rn6/pBp1qkp1/4p2p/8/3P2n1/8/PPP2PPP/RNB2RK1[RBBPPPPqn] b - - 0 15",
+        "solution": [
+            "N@e2",
+            "g1h1",
+            "Q@g1",
+            "f1g1",
+            "g4f2"
+        ],
+        "url": "https://lichess.org/nBSN5utA",
+        "white": "biysk01",
+        "black": "dustball",
+        "white_elo": "1976",
+        "black_elo": "1660",
+        "time_control": "180+2",
+        "date": "2026.03.28"
+    },
+    {
+        "mate_in": 3,
+        "fen": "1r5r/pB3kpp/2P1Nnb1/3p4/Q3pP2/6Pp/PP2PP1P/R4RK1[QPPbbnn] b - - 0 26",
+        "solution": [
+            "N@f3",
+            "e2f3",
+            "N@e2",
+            "g1h1",
+            "B@g2"
+        ],
+        "url": "https://lichess.org/Z12Rb6Mv",
+        "white": "Mikhail0577",
+        "black": "CRAGYBOSS123",
+        "white_elo": "1926",
+        "black_elo": "2155",
+        "time_control": "180+3",
+        "date": "2026.03.28"
+    },
+    {
+        "mate_in": 3,
+        "fen": "r1b4r/pp1n1kp1/2pB2p1/4Pp1p/2PP1p1P/P1N2N2/1P3PP1/R3K2R[Bqqbn] w KQ - 0 28",
+        "solution": [
+            "f3g5",
+            "f7e8",
+            "B@f7",
+            "e8d8",
+            "g5e6"
+        ],
+        "url": "https://lichess.org/xoGzwzXM",
+        "white": "FORCEDARKSIDE",
+        "black": "OlegSolo",
+        "white_elo": "1913",
+        "black_elo": "1714",
+        "time_control": "180+2",
+        "date": "2026.03.28"
+    },
+    {
+        "mate_in": 3,
+        "fen": "r1b4r/pp4kp/n2p1p2/4p1pQ/4P1b1/8/PPPP1PPP/RNB1K1NR[Bqnp] w KQ - 1 22",
+        "solution": [
+            "B@h6",
+            "g7g8",
+            "h5e8",
+            "N@f8",
+            "e8f8"
+        ],
+        "url": "https://lichess.org/oIkhYR6s",
+        "white": "Luckyen",
+        "black": "Zuddha",
+        "white_elo": "1380",
+        "black_elo": "1457",
+        "time_control": "300+5",
+        "date": "2026.03.29"
+    },
+    {
+        "mate_in": 3,
+        "fen": "r1bqk2r/p1np1pbp/2pQ1np1/4p3/4P3/1BN5/PPP2PPP/R3K2R[NPbp] w KQkq - 0 14",
+        "solution": [
+            "b3f7",
+            "e8f7",
+            "N@g5",
+            "f7g8",
+            "P@f7"
+        ],
+        "url": "https://lichess.org/o12JU6Ly",
+        "white": "WhoAreYouTalkingNow",
+        "black": "Mancipe",
+        "white_elo": "1734",
+        "black_elo": "1653",
+        "time_control": "180+0",
+        "date": "2026.03.29"
+    },
+    {
+        "mate_in": 3,
+        "fen": "r1br2k1/ppp1b1pp/4pn2/6N1/4P3/2p5/PPP2PPP/R1B1K2R[QNPqbnp] w KQ - 2 14",
+        "solution": [
+            "N@h6",
+            "g7h6",
+            "Q@f7",
+            "g8h8",
+            "P@g7"
+        ],
+        "url": "https://lichess.org/oWxcVj3t",
+        "white": "Green_Horn",
+        "black": "cuqa",
+        "white_elo": "2323",
+        "black_elo": "2053",
+        "time_control": "120+2",
+        "date": "2026.03.29"
+    },
+    {
+        "mate_in": 3,
+        "fen": "rnb1k1nr/pppp2pp/4p3/6N1/3q1P2/N4P2/Pp1BB2P/b3K2R[Qrpppp] w K - 5 21",
+        "solution": [
+            "Q@f7",
+            "e8d8",
+            "f7f8",
+            "R@e8",
+            "g5f7"
+        ],
+        "url": "https://lichess.org/OJpYVViV",
+        "white": "Zamiatin_Kirill",
+        "black": "Omkarjagdale07",
+        "white_elo": "1283",
+        "black_elo": "1230",
+        "time_control": "660+10",
+        "date": "2026.03.29"
+    },
+    {
+        "mate_in": 3,
+        "fen": "3q1rk1/1np2ppp/1p1p1b2/3P4/1PPpPP1n/3N2R1/3pP2K/5R2[RBBBNPqp] w - - 0 35",
+        "solution": [
+            "N@h6",
+            "g8h8",
+            "R@g8",
+            "f8g8",
+            "h6f7"
+        ],
+        "url": "https://lichess.org/h4VuUW7X",
+        "white": "maxim962",
+        "black": "chtopor",
+        "white_elo": "2200",
+        "black_elo": "2129",
+        "time_control": "180+1",
+        "date": "2026.03.30"
+    },
+    {
+        "mate_in": 3,
+        "fen": "q4rk1/p1pp1ppp/1pb2p1P/5N2/1b1P4/2N5/PPP2PPP/R2b1RK1[RNqbn] w - - 0 16",
+        "solution": [
+            "R@h8",
+            "g8h8",
+            "h6g7",
+            "h8g8",
+            "N@h6"
+        ],
+        "url": "https://lichess.org/8WGog0tQ",
+        "white": "emrty",
+        "black": "vezarus",
+        "white_elo": "2488",
+        "black_elo": "2037",
+        "time_control": "60+0",
+        "date": "2026.03.30"
+    },
+    {
+        "mate_in": 3,
+        "fen": "r2q1rk1/p2p2p1/1p1pp1Bp/3P1p2/5P2/7Q/PP2nPPP/5q~NK[RBNNrbb] w - - 1 35",
+        "solution": [
+            "B@h7",
+            "g8h8",
+            "R@g8",
+            "f8g8",
+            "N@f7"
+        ],
+        "url": "https://lichess.org/PK0mnjod",
+        "white": "GingerbreadMan17",
+        "black": "Macks13",
+        "white_elo": "2054",
+        "black_elo": "1405",
+        "time_control": "180+3",
+        "date": "2026.03.30"
+    },
+    {
+        "mate_in": 3,
+        "fen": "r1bB3r/ppp2kpp/4p1p1/4bp2/2P4Q/4P3/q4PPP/1R3RK1[Nbnnnppp] w - - 0 21",
+        "solution": [
+            "h4e7",
+            "f7g8",
+            "e7e8",
+            "B@f8",
+            "N@e7"
+        ],
+        "url": "https://lichess.org/wGjAU3XU",
+        "white": "TallWhiteLady",
+        "black": "Olga199048392",
+        "white_elo": "1800",
+        "black_elo": "1651",
+        "time_control": "180+0",
+        "date": "2026.03.30"
+    },
+    {
+        "mate_in": 3,
+        "fen": "6rk/pp2PpN1/5p1p/8/1N2n3/4Pb1B/PPP2PPP/R4RK1[QQBBPPrnp] b - - 1 25",
+        "solution": [
+            "N@e2",
+            "g1h1",
+            "R@g1",
+            "f1g1",
+            "e4f2"
+        ],
+        "url": "https://lichess.org/pbQ7CPOr",
+        "white": "kalkalpratik",
+        "black": "spidersarepeople2",
+        "white_elo": "2117",
+        "black_elo": "1950",
+        "time_control": "60+0",
+        "date": "2026.03.30"
+    },
+    {
+        "mate_in": 3,
+        "fen": "r5k1/1q3pp1/p1ppp2p/3p4/P2Pn3/2B3P1/1PP2PBP/R4RK1[RBNNPqbn] b - - 1 22",
+        "solution": [
+            "N@e2",
+            "g1h1",
+            "Q@g1",
+            "f1g1",
+            "e4f2"
+        ],
+        "url": "https://lichess.org/VYwFas2c",
+        "white": "magninorway",
+        "black": "Bodis00",
+        "white_elo": "2050",
+        "black_elo": "2012",
+        "time_control": "60+0",
+        "date": "2026.03.30"
+    },
+    {
+        "mate_in": 3,
+        "fen": "6k1/p1p1qrpp/2p1Bp2/3p1P2/3P4/3Bbn1P/P1P2P1P/R4R1K[RBNNNPqp] b - - 2 25",
+        "solution": [
+            "P@g2",
+            "h1g2",
+            "f3h4",
+            "g2g1",
+            "Q@g2"
+        ],
+        "url": "https://lichess.org/aZTazc6q",
+        "white": "Pasanegras",
+        "black": "hardeywale",
+        "white_elo": "2361",
+        "black_elo": "2312",
+        "time_control": "120+0",
+        "date": "2026.03.30"
+    },
+    {
+        "mate_in": 3,
+        "fen": "r1b2b1r/ppp1p1k1/4Pnpp/3PB3/8/2N2p2/PPP1BPPP/R4RK1[QNPqn] b - - 0 16",
+        "solution": [
+            "N@h3",
+            "g1h1",
+            "Q@g1",
+            "f1g1",
+            "h3f2"
+        ],
+        "url": "https://lichess.org/t5Yz0G5B",
+        "white": "SharpCircuit",
+        "black": "onenitestand",
+        "white_elo": "2133",
+        "black_elo": "2186",
+        "time_control": "60+0",
+        "date": "2026.03.31"
+    },
+    {
+        "mate_in": 3,
+        "fen": "r1b2rk1/ppP2ppp/5B2/4p3/2P1P3/3n4/PP3PPP/R4RK1[QBNNPPqbn] b - - 0 20",
+        "solution": [
+            "N@e2",
+            "g1h1",
+            "Q@g1",
+            "f1g1",
+            "d3f2"
+        ],
+        "url": "https://lichess.org/lqKe09NQ",
+        "white": "rakso98",
+        "black": "deepfloyd",
+        "white_elo": "2087",
+        "black_elo": "2287",
+        "time_control": "180+2",
+        "date": "2026.03.31"
+    },
+    {
+        "mate_in": 3,
+        "fen": "3b4/pppk2pp/2b5/3NB3/8/7P/PPP2PKP/R1BQ1R2[RRNNPqnpppp] b - - 0 31",
+        "solution": [
+            "N@h4",
+            "g2g3",
+            "Q@g2",
+            "g3f4",
+            "d8g5"
+        ],
+        "url": "https://lichess.org/GwvH0WV0",
+        "white": "aaakos",
+        "black": "ciw",
+        "white_elo": "2261",
+        "black_elo": "2462",
+        "time_control": "180+2",
+        "date": "2026.03.31"
+    }
+]

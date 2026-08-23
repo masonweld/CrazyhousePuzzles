@@ -1,0 +1,10 @@
+# Tools and Scripts
+puzzle_finder.py
+aggregate_puzzles.py
+progress.json
+json_agg.py
+
+# Python Cache
+__pycache__/
+*.pyc
+.DS_Store

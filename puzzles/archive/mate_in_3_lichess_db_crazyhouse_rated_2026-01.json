@@ -1,0 +1,1982 @@
+[
+    {
+        "mate_in": 3,
+        "fen": "7k/1p1b1prp/p2p1B1p/8/2PpP3/5P2/P1P2PPP/Q4RK1[QRNPrbbnnn] b - - 1 29",
+        "solution": [
+            "N@h3",
+            "g1h1",
+            "R@g1",
+            "f1g1",
+            "h3f2"
+        ],
+        "url": "https://lichess.org/cGNeruqS"
+    },
+    {
+        "mate_in": 3,
+        "fen": "r5kB/ppp2p1p/3p1p2/4pN2/4P1n1/3P4/PPP2PPP/R4RK1[QRBNqbbn] b - - 0 18",
+        "solution": [
+            "N@e2",
+            "g1h1",
+            "Q@g1",
+            "f1g1",
+            "g4f2"
+        ],
+        "url": "https://lichess.org/gBqMlOod"
+    },
+    {
+        "mate_in": 3,
+        "fen": "q4rk1/p1pp2np/1p2pp2/7N/2PP4/3P1N2/P2B1PPP/R4RK1[RNqbbbpp] w - - 0 25",
+        "solution": [
+            "N@h6",
+            "g8h8",
+            "R@g8",
+            "f8g8",
+            "h6f7"
+        ],
+        "url": "https://lichess.org/Xve8dWTw"
+    },
+    {
+        "mate_in": 3,
+        "fen": "r3k2r/pp3pPp/4p3/3p4/3P4/3nP3/PP1q1PPP/R4RK1[BBNNPqbbnp] b kq - 0 17",
+        "solution": [
+            "N@e2",
+            "g1h1",
+            "Q@g1",
+            "f1g1",
+            "d3f2"
+        ],
+        "url": "https://lichess.org/FYGw4FNF"
+    },
+    {
+        "mate_in": 3,
+        "fen": "r1b1kb1r/ppp2pp1/2n4p/3pP2N/3P2p1/2QB2B1/P1P2PK1/R4R2[QNPnpp] b kq - 1 21",
+        "solution": [
+            "P@h3",
+            "g2h1",
+            "P@g2",
+            "h1h2",
+            "N@f3"
+        ],
+        "url": "https://lichess.org/5qfCtK84"
+    },
+    {
+        "mate_in": 3,
+        "fen": "r1b1kb1r/2p2ppp/p1pp4/3pP3/n2Pp1N1/6P1/PPP1B3/2KR4[QBNqrnp] w kq - 1 24",
+        "solution": [
+            "N@f6",
+            "g7f6",
+            "g4f6",
+            "e8d8",
+            "Q@e8"
+        ],
+        "url": "https://lichess.org/RXPhKaWN"
+    },
+    {
+        "mate_in": 3,
+        "fen": "N1bk1b1r/1p2nppp/p3p3/3pP3/5q2/1P6/P1P1BPPP/RN3RK1[RPqbnp] w - - 0 13",
+        "solution": [
+            "P@c7",
+            "d8d7",
+            "R@d6",
+            "d7e8",
+            "d6d8"
+        ],
+        "url": "https://lichess.org/b7UmsTHd"
+    },
+    {
+        "mate_in": 3,
+        "fen": "2r2rk1/pp1b1ppp/2pP2p1/3pN3/3n4/5B2/PPP2PPP/R3R1K1[QBNqbnp] w - - 0 24",
+        "solution": [
+            "N@e7",
+            "g8h8",
+            "Q@g8",
+            "f8g8",
+            "e5f7"
+        ],
+        "url": "https://lichess.org/HOqP9in8"
+    },
+    {
+        "mate_in": 3,
+        "fen": "6r1/3b2b1/p2bppk1/3pp1p1/6Pp/6R1/PPP2P1P/2RR3K[BNPPqqnnnp] w - - 0 46",
+        "solution": [
+            "B@h5",
+            "g6h7",
+            "P@g6",
+            "h7h6",
+            "N@f7"
+        ],
+        "url": "https://lichess.org/TFxT9Qp8"
+    },
+    {
+        "mate_in": 3,
+        "fen": "r7/ppp4p/2nppRpk/2b1p1q1/4P1Pn/2PP2rP/PP6/5R1K[QBPbbnn] w - - 2 29",
+        "solution": [
+            "B@g7",
+            "h6g7",
+            "f6f7",
+            "g7g8",
+            "Q@g7"
+        ],
+        "url": "https://lichess.org/KPN855NT"
+    },
+    {
+        "mate_in": 3,
+        "fen": "5Bk1/p1p2pp1/1p2pp1p/4bp2/2K5/2B3P1/PPP1r2P/5q2[QRRRBNNNNPP] b - - 0 41",
+        "solution": [
+            "e2e4",
+            "c4b3",
+            "f1c4",
+            "b3a3",
+            "c4a4"
+        ],
+        "url": "https://lichess.org/3WTaWCrQ"
+    },
+    {
+        "mate_in": 3,
+        "fen": "r1b1k2r/ppPpbppp/4p3/5n2/4N1K1/2P2n2/PP3P1P/R1B5[QBNqrppp] w kq - 0 24",
+        "solution": [
+            "N@d6",
+            "f5d6",
+            "e4d6",
+            "e7d6",
+            "Q@d8"
+        ],
+        "url": "https://lichess.org/kEuio1nN"
+    },
+    {
+        "mate_in": 3,
+        "fen": "3rk2r/ppp1b1p1/4Qnp1/bNp5/4PN2/P1N2P2/1PP3PP/R3K2R[qbbppp] w KQ - 4 23",
+        "solution": [
+            "b5c7",
+            "a5c7",
+            "P@f7",
+            "e8f8",
+            "f4g6"
+        ],
+        "url": "https://lichess.org/7XGn9DV2"
+    },
+    {
+        "mate_in": 3,
+        "fen": "rn3rk1/5ppp/2pb3p/p7/6P1/PBBP2PK/2P2P1P/R4R2[QBNNPPPqn] b - - 1 27",
+        "solution": [
+            "N@g5",
+            "h3g2",
+            "Q@f3",
+            "g2g1",
+            "g5h3"
+        ],
+        "url": "https://lichess.org/FvnOCIcJ"
+    },
+    {
+        "mate_in": 3,
+        "fen": "r1bq1k2/pppp1p1p/2n2P2/6P1/3bn3/8/PPP2PPP/RNB1KBNR[Rqpp] w KQ - 0 10",
+        "solution": [
+            "R@h8",
+            "Q@g8",
+            "h8g8",
+            "f8g8",
+            "Q@g7"
+        ],
+        "url": "https://lichess.org/ZlUc6cqE"
+    },
+    {
+        "mate_in": 3,
+        "fen": "r4bnr/p1Nk1ppp/2p1p3/3pB3/8/5b1P/PPP1nPPP/RNBR3K[QPPq] b - - 2 17",
+        "solution": [
+            "f3g2",
+            "h1g2",
+            "P@f3",
+            "g2f3",
+            "Q@e4"
+        ],
+        "url": "https://lichess.org/LZLZfc2r"
+    },
+    {
+        "mate_in": 3,
+        "fen": "3r3r/ppp1b1p1/2nkN1B1/6Pp/3P2n1/4P3/PPP2PPP/R4RK1[QBqbnpp] b - - 0 18",
+        "solution": [
+            "N@e2",
+            "g1h1",
+            "Q@g1",
+            "f1g1",
+            "g4f2"
+        ],
+        "url": "https://lichess.org/RTJkPjeB"
+    },
+    {
+        "mate_in": 3,
+        "fen": "8/p1p3p1/2p2P1b/2k1p2P/8/8/P5PP/1R5K[QPqrrrbbbnnnnppppp] w - - 2 55",
+        "solution": [
+            "Q@b4",
+            "c5d5",
+            "P@e4",
+            "d5e6",
+            "b4e7"
+        ],
+        "url": "https://lichess.org/BAYt3ttm"
+    },
+    {
+        "mate_in": 3,
+        "fen": "r1b1Qrk1/ppp3pp/2nb4/8/8/5N2/PPP1PpPP/RN1K1B1R[NPPqbpp] w - - 2 17",
+        "solution": [
+            "P@f7",
+            "g8h8",
+            "e8f8",
+            "d6f8",
+            "R@g8"
+        ],
+        "url": "https://lichess.org/kCFeqkiS"
+    },
+    {
+        "mate_in": 3,
+        "fen": "r3kb1r/ppp2ppp/8/1n1Bp3/8/1P6/PKPPqPPP/R1B4R[QBNNPPn] b kq - 3 14",
+        "solution": [
+            "f8a3",
+            "b2b1",
+            "N@c3",
+            "d2c3",
+            "b5c3"
+        ],
+        "url": "https://lichess.org/GSnVU56y"
+    },
+    {
+        "mate_in": 3,
+        "fen": "rk6/1pp1Q1Np/p1b1P3/7N/8/8/PPP1PPPP/R2Q1RK1[BBPrbnnppp] b - - 0 43",
+        "solution": [
+            "N@h3",
+            "g1h1",
+            "R@g1",
+            "f1g1",
+            "h3f2"
+        ],
+        "url": "https://lichess.org/ohiVGtaf"
+    },
+    {
+        "mate_in": 3,
+        "fen": "3r1r1k/p1p1Nppp/5B2/2Pp1Nn1/3P4/P6P/1PP2P1P/5B1K[QQBBPPrrn] b - - 0 29",
+        "solution": [
+            "R@g1",
+            "h1g1",
+            "N@f3",
+            "g1h1",
+            "R@g1"
+        ],
+        "url": "https://lichess.org/D8jhMHgW"
+    },
+    {
+        "mate_in": 3,
+        "fen": "r4rk1/pp3p2/4pp1p/4pPn1/P5B1/4P1P1/2P3KP/RN2R3[QBBNNPPPqb] b - - 0 27",
+        "solution": [
+            "B@h3",
+            "g4h3",
+            "Q@f3",
+            "g2g1",
+            "g5h3"
+        ],
+        "url": "https://lichess.org/K1C9zlWa"
+    },
+    {
+        "mate_in": 3,
+        "fen": "r1b1kr2/ppp1bp1p/4p2Q/8/2p5/P3P3/1PRP1PPP/4rBK1[QBNNNPPn] b q - 1 24",
+        "solution": [
+            "N@e2",
+            "g1h1",
+            "e1f1",
+            "N@g1",
+            "f1g1"
+        ],
+        "url": "https://lichess.org/KpzfPua6"
+    },
+    {
+        "mate_in": 3,
+        "fen": "N1bk1bnr/p4ppp/2p5/8/4PPp1/3P1nP1/PP3P1P/R1BK1B1R[QRNPqp] b - - 0 18",
+        "solution": [
+            "Q@e1",
+            "d1c2",
+            "f3d4",
+            "c2b1",
+            "P@c2"
+        ],
+        "url": "https://lichess.org/db2Kv90w"
+    },
+    {
+        "mate_in": 3,
+        "fen": "1qkr1b1r/1pp4p/1p2p3/4N3/1P1Pb3/4B3/1p1PbPPP/1R3RK1[QPPnnnpp] w - - 1 26",
+        "solution": [
+            "P@d7",
+            "d8d7",
+            "Q@e8",
+            "d7d8",
+            "P@d7"
+        ],
+        "url": "https://lichess.org/0KYYQXWE"
+    },
+    {
+        "mate_in": 3,
+        "fen": "r4r1k/p1B2p1p/2p2p1N/6pP/6P1/5PBB/PPPp1P2/4rq~RK[QPqbnnn] w - - 0 56",
+        "solution": [
+            "P@g7",
+            "h8g7",
+            "h6f5",
+            "g7g8",
+            "Q@g7"
+        ],
+        "url": "https://lichess.org/181c0b5p"
+    },
+    {
+        "mate_in": 3,
+        "fen": "r4r1k/1pp3pp/2n1Bp2/p3p3/4P2P/P4K2/2PB1P1P/R4R2[QBBNNNPPPq] b - - 0 33",
+        "solution": [
+            "c6d4",
+            "f3g2",
+            "Q@f3",
+            "g2g1",
+            "d4e2"
+        ],
+        "url": "https://lichess.org/NfAgGwLQ"
+    },
+    {
+        "mate_in": 3,
+        "fen": "6rk/p1p1rp1p/5p2/3ppNn1/8/2b2PB1/P3NPKP/R4R2[QQBBNPPPpp] b - - 0 39",
+        "solution": [
+            "P@h3",
+            "g2g1",
+            "g5f3",
+            "g1h1",
+            "P@g2"
+        ],
+        "url": "https://lichess.org/FJEH1pZ8"
+    },
+    {
+        "mate_in": 3,
+        "fen": "r1krQ3/ppb2p1r/8/3pPp2/3P2p1/2P2N2/P1PBnPPN/Q4R1K[Pbbnpp] w - - 2 34",
+        "solution": [
+            "P@d7",
+            "c8b8",
+            "e8d8",
+            "c7d8",
+            "R@c8"
+        ],
+        "url": "https://lichess.org/JA78c50W"
+    },
+    {
+        "mate_in": 3,
+        "fen": "1Q~1r1n2/p1Q1bkpp/4pp2/3p4/3Pn3/8/PP3PPP/R4RK1[QBBBPPPrnn] b - - 0 30",
+        "solution": [
+            "N@e2",
+            "g1h1",
+            "R@g1",
+            "f1g1",
+            "e4f2"
+        ],
+        "url": "https://lichess.org/kowizpWk"
+    },
+    {
+        "mate_in": 3,
+        "fen": "B1Rbk2r/p2pbppp/1p3q2/2pP4/1nP5/4RB2/PP3PPP/4nK1R[NPPqn] w k - 4 20",
+        "solution": [
+            "N@c7",
+            "e8f8",
+            "c8d8",
+            "e7d8",
+            "e3e8"
+        ],
+        "url": "https://lichess.org/D0HqOS9j"
+    },
+    {
+        "mate_in": 3,
+        "fen": "r4r2/p1pbbpk1/2p2ppp/3p4/4nNPn/PP1KPb2/1BPP1P1P/R2Q3R[QN] w - - 3 32",
+        "solution": [
+            "N@h5",
+            "g6h5",
+            "f4h5",
+            "g7h8",
+            "Q@g7"
+        ],
+        "url": "https://lichess.org/P18CGUyb"
+    },
+    {
+        "mate_in": 3,
+        "fen": "Q~n1qr1k1/p4ppp/2p5/5b2/B2Pn1P1/2PpPKP1/PP4P1/RNBQ3R[RBNP] b - - 0 22",
+        "solution": [
+            "f5g4",
+            "f3g4",
+            "d8g5",
+            "g4h3",
+            "g5g3"
+        ],
+        "url": "https://lichess.org/KVGg8cvk"
+    },
+    {
+        "mate_in": 3,
+        "fen": "r2b1rk1/pp3ppp/4p3/4pN2/2B1Pp2/5N1P/PP3p2/R1B1rB1K[QNPPPqn] w - - 0 28",
+        "solution": [
+            "N@h6",
+            "g8h8",
+            "Q@g8",
+            "f8g8",
+            "h6f7"
+        ],
+        "url": "https://lichess.org/Awk9BLgl"
+    },
+    {
+        "mate_in": 3,
+        "fen": "r1q4r/p1pp1Bpp/b1p1p3/4knN1/3n4/Q7/PPP1pPPP/R1B1K2R[Pbnp] w KQ - 0 22",
+        "solution": [
+            "a3c5",
+            "P@d5",
+            "f2f4",
+            "e5f6",
+            "P@e5"
+        ],
+        "url": "https://lichess.org/AOZCuBlE"
+    },
+    {
+        "mate_in": 3,
+        "fen": "2r1br1k/p1p3pp/1p2N2N/8/3Pp1p1/P3P3/1PP2PPK/R3R3[QBNPqbbnp] w - - 2 22",
+        "solution": [
+            "Q@g8",
+            "f8g8",
+            "N@f7",
+            "e8f7",
+            "h6f7"
+        ],
+        "url": "https://lichess.org/1qF9NKl0"
+    },
+    {
+        "mate_in": 3,
+        "fen": "rnb1r1k1/ppp2pP1/4p1pP/2b1P2b/3P2n1/4qN2/PPPN2PP/R2KR3[QPb] b - - 4 24",
+        "solution": [
+            "g4f2",
+            "d1c1",
+            "e3e1",
+            "f3e1",
+            "R@d1"
+        ],
+        "url": "https://lichess.org/tDEiOp83"
+    },
+    {
+        "mate_in": 3,
+        "fen": "r4B1k/ppp2ppp/6b1/4p3/7n/1B1P1P2/PPP2PPP/R2Q1RK1[RNNqbnp] b - - 0 21",
+        "solution": [
+            "N@h3",
+            "g1h1",
+            "Q@g1",
+            "f1g1",
+            "h3f2"
+        ],
+        "url": "https://lichess.org/WbhcomhZ"
+    },
+    {
+        "mate_in": 3,
+        "fen": "r1b2k2/pp2p1p1/1p2ppq1/3p4/3PpB1n/P1Pp2BP/1Q3P2/R5K1[RNNNPrb] b - - 0 63",
+        "solution": [
+            "h4f3",
+            "g1h1",
+            "R@h2",
+            "g3h2",
+            "B@g2"
+        ],
+        "url": "https://lichess.org/VhRaxvgm"
+    },
+    {
+        "mate_in": 3,
+        "fen": "r1bq3r/1pp1bk1p/3ppn1B/1B6/1p1P4/5N2/PPP2PPP/R3K2R[NPPqnp] w KQ - 0 13",
+        "solution": [
+            "N@e5",
+            "d6e5",
+            "f3e5",
+            "f7g8",
+            "P@f7"
+        ],
+        "url": "https://lichess.org/fhQ5exYN"
+    },
+    {
+        "mate_in": 3,
+        "fen": "r1b2rk1/ppp3pp/2n2p2/3p3N/5P2/2B5/R1P1B1PP/3n1RK1[QNqbppppp] w - - 0 24",
+        "solution": [
+            "N@h6",
+            "g8h8",
+            "Q@g8",
+            "f8g8",
+            "h6f7"
+        ],
+        "url": "https://lichess.org/vjWB7CeS"
+    },
+    {
+        "mate_in": 3,
+        "fen": "r3rk2/p1p2ppp/2pq1p1N/2Bp4/3Pb1N1/Q6P/PPP1nPP1/R4R1K[BBnp] b - - 8 18",
+        "solution": [
+            "e4g2",
+            "h1g2",
+            "N@h4",
+            "g2h1",
+            "P@g2"
+        ],
+        "url": "https://lichess.org/063POCez"
+    },
+    {
+        "mate_in": 3,
+        "fen": "q4rk1/p1Bn1ppp/1p3b2/3p1p2/2nP4/1PP2bR1/P4PPP/5RK1[RBNPPqn] w - - 0 22",
+        "solution": [
+            "N@h6",
+            "g8h8",
+            "R@g8",
+            "f8g8",
+            "h6f7"
+        ],
+        "url": "https://lichess.org/d8Dw1Em9"
+    },
+    {
+        "mate_in": 3,
+        "fen": "r1b2NkN/ppp3p1/3pPb1p/3P4/8/8/P4PPP/R2n1RK1[QRBqbnpppp] b - - 0 22",
+        "solution": [
+            "N@e2",
+            "g1h1",
+            "Q@g1",
+            "f1g1",
+            "d1f2"
+        ],
+        "url": "https://lichess.org/Vm31krdc"
+    },
+    {
+        "mate_in": 3,
+        "fen": "r2k1br1/ppp2p2/2B1pp1p/8/1b1P4/2N5/PPPBPPPP/3R1RK1[QNNqnp] b - - 0 18",
+        "solution": [
+            "N@h3",
+            "g1h1",
+            "Q@g1",
+            "f1g1",
+            "h3f2"
+        ],
+        "url": "https://lichess.org/pERkDIwj"
+    },
+    {
+        "mate_in": 3,
+        "fen": "r4rk1/bpp2ppp/pn1p4/3P1Np1/3PP2p/PBN2P2/1P4BK/3RR3[QNqbp] w - - 3 25",
+        "solution": [
+            "N@h6",
+            "g8h8",
+            "Q@g8",
+            "f8g8",
+            "h6f7"
+        ],
+        "url": "https://lichess.org/rJhvKeAM"
+    },
+    {
+        "mate_in": 3,
+        "fen": "3Rbk2/2p2ppp/p2p4/1p4B1/3P4/1Pq4P/2P2Pb1/R2Q1RK1[Nrbnnnpppp] w - - 2 26",
+        "solution": [
+            "N@d7",
+            "f8g8",
+            "d8e8",
+            "R@f8",
+            "e8f8"
+        ],
+        "url": "https://lichess.org/zHNpzBSl"
+    },
+    {
+        "mate_in": 3,
+        "fen": "5r2/p1p1N1pk/2p1b2p/5b1P/3PpB2/2n1P3/P1P2PP1/R4R1K[RPqqbnnpp] w - - 0 34",
+        "solution": [
+            "P@g6",
+            "f5g6",
+            "h5g6",
+            "h7h8",
+            "R@h7"
+        ],
+        "url": "https://lichess.org/wXcWjELq"
+    },
+    {
+        "mate_in": 3,
+        "fen": "r3k2r/ppp2ppp/4b3/4Q1N1/2P2pNb/3Pp2P/PPP3P1/R2Q1BKR[NPbn] b kq - 3 23",
+        "solution": [
+            "B@f2",
+            "g4f2",
+            "e3f2",
+            "g1h2",
+            "h4g3"
+        ],
+        "url": "https://lichess.org/DdAnaSsE"
+    },
+    {
+        "mate_in": 3,
+        "fen": "r6r/p1pPk1p1/bp2pbPp/8/1pp1nN2/8/P1P2PPP/R5KR[QPqbbnn] w - - 2 43",
+        "solution": [
+            "Q@f7",
+            "e7d6",
+            "f7e6",
+            "d6c5",
+            "e6d5"
+        ],
+        "url": "https://lichess.org/jongemr3"
+    },
+    {
+        "mate_in": 3,
+        "fen": "b2q1rk1/p1p2ppp/4pb2/8/3n2R1/8/PPP1nPPP/R6K[RBBNPPqnpp] w - - 0 19",
+        "solution": [
+            "N@h6",
+            "g8h8",
+            "R@g8",
+            "f8g8",
+            "h6f7"
+        ],
+        "url": "https://lichess.org/WQHgReln"
+    },
+    {
+        "mate_in": 3,
+        "fen": "r4rk1/ppp2ppp/8/3PN3/4P3/8/PPP1KPPP/R1B3r1[QBBNPPqbnn] w - - 0 20",
+        "solution": [
+            "N@e7",
+            "g8h8",
+            "Q@g8",
+            "f8g8",
+            "e5f7"
+        ],
+        "url": "https://lichess.org/4aHOoFbX"
+    },
+    {
+        "mate_in": 3,
+        "fen": "7r/pb1pk1pp/1N1bpb1n/8/8/4P1P1/PPQ1PPPP/R1B2RK1[QNPPrnp] b - - 0 20",
+        "solution": [
+            "N@h3",
+            "g1h1",
+            "R@g1",
+            "f1g1",
+            "h3f2"
+        ],
+        "url": "https://lichess.org/g9rx2PnA"
+    },
+    {
+        "mate_in": 3,
+        "fen": "r2q1r2/ppp2p1p/5Npk/3N3B/8/2P4b/P1P2P1P/R5RK[PPPqbbnnpp] w - - 0 27",
+        "solution": [
+            "P@g5",
+            "h6g7",
+            "P@h6",
+            "g7h8",
+            "P@g7"
+        ],
+        "url": "https://lichess.org/ufNmWiN6"
+    },
+    {
+        "mate_in": 3,
+        "fen": "r1b2bnr/ppNk1ppp/3p4/3P4/2K1p3/2P1Pq2/PP1rNP1n/R7[QBPPbp] w - - 2 28",
+        "solution": [
+            "Q@e8",
+            "d7c7",
+            "B@d8",
+            "c7b8",
+            "P@c7"
+        ],
+        "url": "https://lichess.org/iKax0kh6"
+    },
+    {
+        "mate_in": 3,
+        "fen": "1r6/1kppn1pp/ppp2b2/B3p3/4Pn2/1QNB1P2/PPP2PPP/R4RK1[RBqn] b - - 0 32",
+        "solution": [
+            "N@h3",
+            "g1h1",
+            "Q@g1",
+            "f1g1",
+            "h3f2"
+        ],
+        "url": "https://lichess.org/HGhbvn6Y"
+    },
+    {
+        "mate_in": 3,
+        "fen": "r4rk1/ppp1ppnp/6p1/8/7n/2N2p2/PPP2P1B/R4QK1[QBNPPrbbpp] w - - 0 23",
+        "solution": [
+            "N@h6",
+            "g8h8",
+            "Q@g8",
+            "f8g8",
+            "h6f7"
+        ],
+        "url": "https://lichess.org/vnUr6hfv"
+    },
+    {
+        "mate_in": 3,
+        "fen": "rn1qkb1r/1pp1pppp/p4n2/3NN3/2BP4/8/PPP2PPP/R1BbK2R[PPq] w KQkq - 0 9",
+        "solution": [
+            "d5f6",
+            "e7f6",
+            "c4f7",
+            "e8e7",
+            "N@f5"
+        ],
+        "url": "https://lichess.org/b1mmekJv"
+    },
+    {
+        "mate_in": 3,
+        "fen": "4Nk1r/1p3pp1/1np1p1p1/4P1n1/r2P2P1/1KPPP1B1/4QP1P/1R6[QNPrbbbp] w - - 0 38",
+        "solution": [
+            "P@e7",
+            "f8e7",
+            "Q@d6",
+            "e7e8",
+            "N@c7"
+        ],
+        "url": "https://lichess.org/lXkfeQ2y"
+    },
+    {
+        "mate_in": 3,
+        "fen": "r4rk1/ppp2ppp/3p4/1B2p1N1/3nP3/3P1P2/PPP2P1P/3RK2R[QBNqbbn] w K - 1 15",
+        "solution": [
+            "N@e7",
+            "g8h8",
+            "Q@g8",
+            "f8g8",
+            "g5f7"
+        ],
+        "url": "https://lichess.org/7oNK3Wle"
+    },
+    {
+        "mate_in": 3,
+        "fen": "q4rk1/p1p2ppp/2p1p3/2P1P1N1/3p4/P1Nb4/1P3PPP/R4RK1[RBNqbbnp] w - - 0 22",
+        "solution": [
+            "N@e7",
+            "g8h8",
+            "R@g8",
+            "f8g8",
+            "g5f7"
+        ],
+        "url": "https://lichess.org/dZ9FNDWv"
+    },
+    {
+        "mate_in": 3,
+        "fen": "rn1r2k1/1p3ppp/2p2b2/8/4P3/1P6/P1P1BPNP/R4RK1[QBNPPPqbnpp] b - - 0 19",
+        "solution": [
+            "N@h3",
+            "g1h1",
+            "Q@g1",
+            "f1g1",
+            "h3f2"
+        ],
+        "url": "https://lichess.org/IlLDsn8v"
+    },
+    {
+        "mate_in": 3,
+        "fen": "1br1k3/pN1b1r1p/1p1Ppp1N/8/8/2P3Q1/P1P3PP/R1B1K2R[qbnnppppp] w KQ - 0 30",
+        "solution": [
+            "g3g8",
+            "f7f8",
+            "g8f8",
+            "e8f8",
+            "R@g8"
+        ],
+        "url": "https://lichess.org/VKiqCaLG"
+    },
+    {
+        "mate_in": 3,
+        "fen": "r4rk1/ppp2pBp/2n5/7p/4BBn1/8/PPP1nbPP/R2R3K[QPPPPqnp] b - - 0 19",
+        "solution": [
+            "N@g3",
+            "f4g3",
+            "e2g3",
+            "h2g3",
+            "Q@h2"
+        ],
+        "url": "https://lichess.org/qhH52VVr"
+    },
+    {
+        "mate_in": 3,
+        "fen": "1q3rk1/pp3ppp/2p1pn2/3p4/3P4/P1NPPP1P/1P3P1b/R2Q1R1K[RBNbbn] b - - 2 15",
+        "solution": [
+            "B@g2",
+            "h1g2",
+            "N@h4",
+            "g2h1",
+            "B@g2"
+        ],
+        "url": "https://lichess.org/xfkvRGPP"
+    },
+    {
+        "mate_in": 3,
+        "fen": "r3k2r/pp1q1ppp/2p1p3/3p1n2/3Pn3/2BBP3/PPPB2PP/R2Q2KR[BNnp] b kq - 4 18",
+        "solution": [
+            "P@f2",
+            "g1f1",
+            "N@g3",
+            "h2g3",
+            "f5g3"
+        ],
+        "url": "https://lichess.org/6e1dCAse"
+    },
+    {
+        "mate_in": 3,
+        "fen": "r1b1k2r/ppp2pp1/3b4/4n1B1/6nP/1QPP1BPp/PP2PP1P/R4RK1[QNPn] b kq - 0 17",
+        "solution": [
+            "e5f3",
+            "e2f3",
+            "N@e2",
+            "g1h1",
+            "B@g2"
+        ],
+        "url": "https://lichess.org/2wPkbrSR"
+    },
+    {
+        "mate_in": 3,
+        "fen": "r3k2r/p1pp1pp1/1pb1p2p/6qN/2P1P3/3B1B2/PP1N1PPP/3R1RK1[BNqnp] b kq - 3 14",
+        "solution": [
+            "N@h3",
+            "g1h1",
+            "Q@g1",
+            "f1g1",
+            "h3f2"
+        ],
+        "url": "https://lichess.org/9GC4o13r"
+    },
+    {
+        "mate_in": 3,
+        "fen": "rn3rk1/pp1bbppp/2pp4/3Pp2N/1P2P2P/2N2P2/1Pq1B1P1/R4K1R[QNbp] w - - 1 23",
+        "solution": [
+            "N@h6",
+            "g8h8",
+            "Q@g8",
+            "f8g8",
+            "h6f7"
+        ],
+        "url": "https://lichess.org/EEyVK4Xr"
+    },
+    {
+        "mate_in": 3,
+        "fen": "r4rk1/pppn1ppp/4p3/3p1bN1/3P1n1P/7P/PPP1PP2/R2Q1RK1[QBNbb] w - - 2 14",
+        "solution": [
+            "N@e7",
+            "g8h8",
+            "Q@g8",
+            "f8g8",
+            "g5f7"
+        ],
+        "url": "https://lichess.org/pblblLyj"
+    },
+    {
+        "mate_in": 3,
+        "fen": "4Rbk1/pp3ppp/4B3/3N1p2/3Pp1bp/6P1/P1P1PPp1/R2Q1RK1[Bqrnnnp] w - - 4 37",
+        "solution": [
+            "d5e7",
+            "g8h8",
+            "e8f8",
+            "N@g8",
+            "f8g8"
+        ],
+        "url": "https://lichess.org/eIWgAc6I"
+    },
+    {
+        "mate_in": 3,
+        "fen": "r4r1k/pp3Bpp/2pp4/4pPq1/4P3/3BP3/PPP3PP/R4RK1[BBNNNPqn] b - - 0 26",
+        "solution": [
+            "N@h3",
+            "g1h1",
+            "Q@g1",
+            "f1g1",
+            "h3f2"
+        ],
+        "url": "https://lichess.org/X39XYZpR"
+    },
+    {
+        "mate_in": 3,
+        "fen": "r2k1b2/ppp2p1p/5p2/4N3/2BNp2B/8/PPPp1PbP/R2Q2KR[QPrnnpp] b - - 0 26",
+        "solution": [
+            "N@h3",
+            "g1g2",
+            "N@f4",
+            "g2g3",
+            "R@g2"
+        ],
+        "url": "https://lichess.org/zvZOE4Db"
+    },
+    {
+        "mate_in": 3,
+        "fen": "r1b1k2r/pp1p1pQp/n7/8/8/2P2P2/PPq1N1PP/R1B1K2R[BNPPPbnpp] b KQkq - 0 12",
+        "solution": [
+            "N@d3",
+            "e1f1",
+            "c2d1",
+            "B@e1",
+            "d1e1"
+        ],
+        "url": "https://lichess.org/6QIQdrgJ"
+    },
+    {
+        "mate_in": 3,
+        "fen": "r5k1/pp3p1p/3r2p1/6B1/1n1P4/1P6/1Pq1NPPP/4K2R[QRBBNNPPPbpp] b - - 3 35",
+        "solution": [
+            "b4d3",
+            "e1f1",
+            "c2d1",
+            "B@e1",
+            "d1e1"
+        ],
+        "url": "https://lichess.org/szCLEZhH"
+    },
+    {
+        "mate_in": 3,
+        "fen": "rr5k/pp4N1/4bQ2/8/3PP1b1/6P1/PP5P/4r1RK[QBBNNPPPPPPPPn] b - - 2 50",
+        "solution": [
+            "e1g1",
+            "h1g1",
+            "N@h3",
+            "g1g2",
+            "R@g1"
+        ],
+        "url": "https://lichess.org/78ujGtiI"
+    },
+    {
+        "mate_in": 3,
+        "fen": "r1bq1r2/ppp2P1k/2pb1P1p/5n1Q/4P3/8/PPP2PPP/RN2K2R[Pbbnnp] w KQ - 0 15",
+        "solution": [
+            "P@g6",
+            "h7h8",
+            "h5h6",
+            "f5h6",
+            "P@g7"
+        ],
+        "url": "https://lichess.org/JD7NWqbW"
+    },
+    {
+        "mate_in": 3,
+        "fen": "r2qk2r/ppp2pp1/5n2/4p2p/1Q2P2B/3PPpP1/P4Pb1/R1R3K1[BBNNNpp] b kq - 0 25",
+        "solution": [
+            "P@h2",
+            "g1h2",
+            "f6g4",
+            "h2g1",
+            "P@h2"
+        ],
+        "url": "https://lichess.org/GD908obb"
+    },
+    {
+        "mate_in": 3,
+        "fen": "B4r1k/p4pbp/2p3pN/2Npn2p/4p2Q/7P/PPP2P2/R1B2R1K[BNPPPqr] b - - 0 35",
+        "solution": [
+            "R@h2",
+            "h1h2",
+            "e5f3",
+            "h2h1",
+            "Q@h2"
+        ],
+        "url": "https://lichess.org/qlxcKtL2"
+    },
+    {
+        "mate_in": 3,
+        "fen": "1q3rk1/pBp2pnp/2Pp1b2/8/3n1B2/3P4/PPP2PPP/5RK1[RNPPPqrbn] w - - 0 28",
+        "solution": [
+            "N@h6",
+            "g8h8",
+            "R@g8",
+            "f8g8",
+            "h6f7"
+        ],
+        "url": "https://lichess.org/qCsqpCGk"
+    },
+    {
+        "mate_in": 3,
+        "fen": "r3r3/pb3N1k/2p1p1p1/2b4p/2B1P1n1/3P2B1/PqP1nPPP/R5RK[QPPPnp] b - - 0 38",
+        "solution": [
+            "e2g3",
+            "h2g3",
+            "g4f2",
+            "h1h2",
+            "N@g4"
+        ],
+        "url": "https://lichess.org/fwSssf4V"
+    },
+    {
+        "mate_in": 3,
+        "fen": "r1b2r1k/pp3ppp/8/2pPpP1N/2Pp4/3Bn3/PP4PP/R4RK1[QBBNPqn] b - - 0 20",
+        "solution": [
+            "N@h3",
+            "g1h1",
+            "Q@g1",
+            "f1g1",
+            "h3f2"
+        ],
+        "url": "https://lichess.org/On3OJd9r"
+    },
+    {
+        "mate_in": 3,
+        "fen": "r1b2rk1/ppp2pp1/6pp/4P3/7Q/2nB1P1p/P1P2KpP/R1B1R2q[BNNNPP] b - - 2 26",
+        "solution": [
+            "h1e1",
+            "f2e1",
+            "R@d1",
+            "e1f2",
+            "g2g1q"
+        ],
+        "url": "https://lichess.org/cCpt0JED"
+    },
+    {
+        "mate_in": 3,
+        "fen": "3r1b1r/p1p1p1pb/2p1k1p1/2Pp1pP1/3P2n1/8/P1P2PP1/R2QK2R[BBNqnnp] w KQ - 0 36",
+        "solution": [
+            "N@f4",
+            "e6d7",
+            "B@e6",
+            "d7e8",
+            "B@f7"
+        ],
+        "url": "https://lichess.org/8gYpqm0Q"
+    },
+    {
+        "mate_in": 3,
+        "fen": "r1b2B2/ppp2k1p/2p1ppq1/8/8/2P5/PP3PPP/RN3RK1[QBNNPPrbnp] b - - 0 19",
+        "solution": [
+            "N@h3",
+            "g1h1",
+            "R@g1",
+            "f1g1",
+            "h3f2"
+        ],
+        "url": "https://lichess.org/RNK097B8"
+    },
+    {
+        "mate_in": 3,
+        "fen": "r1b2rk1/ppppbppp/2n2P2/8/3P4/2N2p2/PPP1BPPP/R1B2RK1[QNqn] b - - 0 11",
+        "solution": [
+            "N@h3",
+            "g1h1",
+            "Q@g1",
+            "f1g1",
+            "h3f2"
+        ],
+        "url": "https://lichess.org/McGxe9jf"
+    },
+    {
+        "mate_in": 3,
+        "fen": "rnb1Qrk1/ppp2ppp/8/8/3p4/8/PPP2PPP/R1Bq1NK1[NPrbbnpp] w - - 2 20",
+        "solution": [
+            "N@e7",
+            "g8h8",
+            "e8f8",
+            "R@g8",
+            "f8g8"
+        ],
+        "url": "https://lichess.org/ex6VcyLP"
+    },
+    {
+        "mate_in": 3,
+        "fen": "r2qk2r/ppp2p1p/2np2p1/3Np2b/2B1P3/3PBn1P/PPP2PK1/2R1QR2[BNp] b kq - 1 19",
+        "solution": [
+            "f3e1",
+            "c1e1",
+            "P@f3",
+            "g2h2",
+            "Q@g2"
+        ],
+        "url": "https://lichess.org/rqMrEiej"
+    },
+    {
+        "mate_in": 3,
+        "fen": "rn5r/1b1k1p1p/p2b3p/1p2P3/8/1P2P3/P3BPPP/3Q1RK1[QNPrbnnppp] b - - 1 26",
+        "solution": [
+            "N@h3",
+            "g1h1",
+            "R@g1",
+            "f1g1",
+            "h3f2"
+        ],
+        "url": "https://lichess.org/QGKfyCjP"
+    },
+    {
+        "mate_in": 3,
+        "fen": "r1b2rkb/ppq2p1p/3pbQpP/3Pn1P1/2P1P2P/1P6/P4PP1/R4RK1[Nbnn] w - - 1 25",
+        "solution": [
+            "f6h8",
+            "g8h8",
+            "B@g7",
+            "h8g8",
+            "N@f6"
+        ],
+        "url": "https://lichess.org/YYtcUV3M"
+    },
+    {
+        "mate_in": 3,
+        "fen": "5B1k/p2n2Np/2pp4/7p/7B/2N2p2/PPP2PPK/R4R2[QRBBNqrppppp] b - - 0 34",
+        "solution": [
+            "R@h3",
+            "h2h3",
+            "Q@g4",
+            "h3h2",
+            "g4g2"
+        ],
+        "url": "https://lichess.org/aAOm1lae"
+    },
+    {
+        "mate_in": 3,
+        "fen": "rn1q1bkr/ppp5/4pp1p/4Np1N/3P4/2P5/PPBKPPPP/2B2B1R[Pqrn] w - - 3 21",
+        "solution": [
+            "P@f7",
+            "g8h7",
+            "c2f5",
+            "e6f5",
+            "P@g6"
+        ],
+        "url": "https://lichess.org/75z6LFYd"
+    },
+    {
+        "mate_in": 3,
+        "fen": "rn2kb1r/1pp1pppp/p4n2/7q/2P5/3pP1N1/PP1P1PPP/R1BQK2R[BNb] b KQkq - 1 13",
+        "solution": [
+            "h5d1",
+            "e1d1",
+            "B@c2",
+            "d1e1",
+            "Q@d1"
+        ],
+        "url": "https://lichess.org/RchLwWQe"
+    },
+    {
+        "mate_in": 3,
+        "fen": "rnbq1k2/pppp1p1p/5P2/6P1/3bP1n1/8/PPP2PPP/RNB1KBNR[Rqp] w KQ - 0 9",
+        "solution": [
+            "R@h8",
+            "Q@g8",
+            "h8g8",
+            "f8g8",
+            "Q@g7"
+        ],
+        "url": "https://lichess.org/1LA86fZ5"
+    },
+    {
+        "mate_in": 3,
+        "fen": "r2q1r1k/pp2b2B/2n2pPp/3p1b2/8/2N1P3/PPnK1PPP/R4B1R[NPPqpp] w - - 0 18",
+        "solution": [
+            "P@g7",
+            "h8g7",
+            "N@h5",
+            "g7h8",
+            "P@g7"
+        ],
+        "url": "https://lichess.org/dnzEW17H"
+    },
+    {
+        "mate_in": 3,
+        "fen": "5Qnk/1p2nppp/BNb1p3/4Bb2/8/3P4/PPP2PPP/R2Q1RK1[PPrrnpp] b - - 0 28",
+        "solution": [
+            "N@h3",
+            "g1h1",
+            "R@g1",
+            "f1g1",
+            "h3f2"
+        ],
+        "url": "https://lichess.org/I9jTQvAi"
+    },
+    {
+        "mate_in": 3,
+        "fen": "r4b1b/p5kp/2ppPn2/6p1/4PQ2/8/P1q2PPP/5RK1[Prrbbnnnpppp] w - - 0 39",
+        "solution": [
+            "f4g5",
+            "R@g6",
+            "P@h6",
+            "g7g8",
+            "P@f7"
+        ],
+        "url": "https://lichess.org/MvSlhLiB"
+    },
+    {
+        "mate_in": 3,
+        "fen": "r3k1r1/ppp1NpPp/4pP2/4qb2/8/2b5/P1PQBPPP/R1B1K1NR[PPnnp] w KQq - 4 17",
+        "solution": [
+            "P@d7",
+            "e8d8",
+            "e7c6",
+            "b7c6",
+            "P@e7"
+        ],
+        "url": "https://lichess.org/ioVf8jPu"
+    },
+    {
+        "mate_in": 3,
+        "fen": "1B2kbnr/pp1bpppp/q7/N7/4P3/3P3p/4BPPP/1N3RK1[RRPqnppp] w k - 1 24",
+        "solution": [
+            "R@d8",
+            "e8d8",
+            "P@c7",
+            "d8e8",
+            "R@d8"
+        ],
+        "url": "https://lichess.org/JcGuJcVm"
+    },
+    {
+        "mate_in": 3,
+        "fen": "r1br4/ppp1bkPp/4p3/8/2n1P1n1/8/PPP2PPP/RNB2RK1[QBPqnpp] b - - 0 14",
+        "solution": [
+            "N@e2",
+            "g1h1",
+            "Q@g1",
+            "f1g1",
+            "g4f2"
+        ],
+        "url": "https://lichess.org/WJgf65Q7"
+    },
+    {
+        "mate_in": 3,
+        "fen": "r4rk1/p1p2pp1/2pp3p/4pP1N/6nN/3P3B/PPP2PPP/R4RK1[QBqbbn] b - - 2 20",
+        "solution": [
+            "N@e2",
+            "g1h1",
+            "Q@g1",
+            "f1g1",
+            "g4f2"
+        ],
+        "url": "https://lichess.org/vB6c6Zn3"
+    },
+    {
+        "mate_in": 3,
+        "fen": "r1b1k2r/pppp1ppp/4pq2/8/2PPnNpN/6Pp/P2BP2P/R2Q1BKR[BN] b kq - 4 13",
+        "solution": [
+            "f6d4",
+            "B@e3",
+            "P@f2",
+            "e3f2",
+            "d4f2"
+        ],
+        "url": "https://lichess.org/HthL7PXg"
+    },
+    {
+        "mate_in": 3,
+        "fen": "q4rk1/p4ppp/2np1b2/1p2p3/B2nP1Q1/3P4/PPP1bPPP/R4RK1[RBNnp] w - - 2 16",
+        "solution": [
+            "N@h6",
+            "g8h8",
+            "R@g8",
+            "f8g8",
+            "h6f7"
+        ],
+        "url": "https://lichess.org/7HrGDqyk"
+    },
+    {
+        "mate_in": 3,
+        "fen": "r1b2r2/p4ppk/2p2Rp1/2bp4/8/1B4P1/PPPP2PP/R1B2K2[QNPPqnnnp] w - - 0 21",
+        "solution": [
+            "N@g5",
+            "h7h6",
+            "Q@h7",
+            "h6g5",
+            "h7h4"
+        ],
+        "url": "https://lichess.org/SNTKyPdd"
+    },
+    {
+        "mate_in": 3,
+        "fen": "r2n1k1r/ppN2ppp/3p4/3BpPb1/8/3P1q2/PPP2PPP/R4RK1[BNPqbn] b - - 0 23",
+        "solution": [
+            "N@h3",
+            "g1h1",
+            "Q@g1",
+            "f1g1",
+            "h3f2"
+        ],
+        "url": "https://lichess.org/JCCs4OJN"
+    },
+    {
+        "mate_in": 3,
+        "fen": "r2q4/ppp1bk1p/7B/5pP1/2NP4/5PnP/PP2n1PK/R4R2[BPPqrbnpp] w - - 0 32",
+        "solution": [
+            "c4e5",
+            "f7e6",
+            "B@f7",
+            "e6d6",
+            "P@c5"
+        ],
+        "url": "https://lichess.org/PXH5VDqY"
+    },
+    {
+        "mate_in": 3,
+        "fen": "r3k1nr/3p1pp1/pp1Bp2p/4Pp2/4pb2/2P5/P1P1B1PP/R2Q3K[QNNPrbn] b kq - 0 19",
+        "solution": [
+            "N@f2",
+            "h1g1",
+            "R@h1",
+            "g1f2",
+            "B@e3"
+        ],
+        "url": "https://lichess.org/y5HzACRo"
+    },
+    {
+        "mate_in": 3,
+        "fen": "r2k1b1r/pppnppp1/4q2p/1N1p4/2pP4/6B1/PP2QPPP/R2K3R[BBNPn] b - - 0 18",
+        "solution": [
+            "e6e2",
+            "d1e2",
+            "Q@d3",
+            "e2e1",
+            "N@c2"
+        ],
+        "url": "https://lichess.org/7aIr3YyS"
+    },
+    {
+        "mate_in": 3,
+        "fen": "rnbqkbnr/pp1pp1pp/2p2p2/8/2B1P3/8/PPPP1PPP/RNBQK1NR[] w KQkq - 0 3",
+        "solution": [
+            "d1h5",
+            "g7g6",
+            "h5g6",
+            "h7g6",
+            "P@f7"
+        ],
+        "url": "https://lichess.org/uG635zKj"
+    },
+    {
+        "mate_in": 3,
+        "fen": "rn4Nr/pppk2p1/3p4/PP6/3p4/2P5/3PQKPP/R1B4R[Pqbbbnnppp] w - - 4 29",
+        "solution": [
+            "e2e7",
+            "d7c8",
+            "e7e8",
+            "B@d8",
+            "g8e7"
+        ],
+        "url": "https://lichess.org/eRc97SVo"
+    },
+    {
+        "mate_in": 3,
+        "fen": "1r4k1/p2q1ppp/2pp4/2p1b3/2Pp4/NN1P1P1b/P2Q1PPp/R4R1K[RBBNNp] b - - 6 33",
+        "solution": [
+            "h3g2",
+            "h1g2",
+            "P@h3",
+            "g2h1",
+            "P@g2"
+        ],
+        "url": "https://lichess.org/UxkS2UKT"
+    },
+    {
+        "mate_in": 3,
+        "fen": "r6k/pp1b1Bp1/3p1p2/4p3/4P2n/2P5/PP1N1PPP/R2Q1RK1[RBNqbnppp] b - - 0 33",
+        "solution": [
+            "N@h3",
+            "g1h1",
+            "Q@g1",
+            "f1g1",
+            "h3f2"
+        ],
+        "url": "https://lichess.org/MXfh94F6"
+    },
+    {
+        "mate_in": 3,
+        "fen": "rn1q1rk1/ppp2ppp/4p3/7p/8/7P/P1P2PP1/BN3RK1[RBNPqbbnpp] w - - 0 21",
+        "solution": [
+            "N@h6",
+            "g8h8",
+            "R@g8",
+            "f8g8",
+            "h6f7"
+        ],
+        "url": "https://lichess.org/jF4d5fck"
+    },
+    {
+        "mate_in": 3,
+        "fen": "r6k/ppp1bBpp/3p4/4p3/4P1n1/3PB3/PPP1nPPP/3R1R1K[QRBNPqn] b - - 0 15",
+        "solution": [
+            "N@g3",
+            "f2g3",
+            "e2g3",
+            "h2g3",
+            "Q@h2"
+        ],
+        "url": "https://lichess.org/3Q6zt3cF"
+    },
+    {
+        "mate_in": 3,
+        "fen": "r1bq1k2/ppp2p1p/2np1P2/2b3P1/4n3/7N/PPPP1PPP/RNB1KB1R[Rqp] w KQ - 0 10",
+        "solution": [
+            "R@h8",
+            "Q@g8",
+            "h8g8",
+            "f8g8",
+            "Q@g7"
+        ],
+        "url": "https://lichess.org/BOeVVAoX"
+    },
+    {
+        "mate_in": 3,
+        "fen": "r2k3r/ppp2Ppp/3p4/1B4p1/8/B3n1P1/P5PP/R4RK1[BBNNPPqqnpp] b - - 1 34",
+        "solution": [
+            "N@h3",
+            "g1h1",
+            "Q@g1",
+            "f1g1",
+            "h3f2"
+        ],
+        "url": "https://lichess.org/9k17xNxC"
+    },
+    {
+        "mate_in": 3,
+        "fen": "r2q4/1pp1bNp1/p3p1k1/3p4/3P4/P1N1P3/1PP2PP1/R3K3[RNPqrbbbnpp] w Q - 0 20",
+        "solution": [
+            "N@e5",
+            "g6h7",
+            "P@g6",
+            "h7g8",
+            "R@h8"
+        ],
+        "url": "https://lichess.org/ZzownZlg"
+    },
+    {
+        "mate_in": 3,
+        "fen": "1r3rk1/pp3ppp/2p5/3p2N1/3P1b2/2P4b/P1P1BPpP/R2QK1R1[QNPbnnp] w Q - 1 19",
+        "solution": [
+            "N@e7",
+            "g8h8",
+            "Q@g8",
+            "f8g8",
+            "g5f7"
+        ],
+        "url": "https://lichess.org/OXuZX0UA"
+    },
+    {
+        "mate_in": 3,
+        "fen": "bn2q1k1/2B1nppp/2p1p2P/3p4/3Pn3/2P1P3/P1P2PPP/R4RK1[QRBBrnp] b - - 1 23",
+        "solution": [
+            "N@e2",
+            "g1h1",
+            "R@g1",
+            "f1g1",
+            "e4f2"
+        ],
+        "url": "https://lichess.org/0A1z8yQo"
+    },
+    {
+        "mate_in": 3,
+        "fen": "r2q1b2/pp1n1kp1/2pp1p2/5P2/3P1B2/2P2N1P/PP2r1B1/R5K1[NPPqrbnpp] w - - 0 26",
+        "solution": [
+            "P@g6",
+            "f7e7",
+            "N@g8",
+            "e7e8",
+            "P@f7"
+        ],
+        "url": "https://lichess.org/WqdizPBU"
+    },
+    {
+        "mate_in": 3,
+        "fen": "5rk1/pp3ppp/2p1b3/3pN3/3Pn3/3Q1b2/P1P2q~PP/5BRK[QRRBNNPPp] b - - 3 36",
+        "solution": [
+            "f2g1",
+            "h1g1",
+            "P@f2",
+            "g1h1",
+            "R@g1"
+        ],
+        "url": "https://lichess.org/IdW13KQq"
+    },
+    {
+        "mate_in": 3,
+        "fen": "8/4nrk1/p4p2/1pp1p1n1/3nP3/P2P1bPP/QPP1nPPP/R2Q1R1K[RBBBp] b - - 2 29",
+        "solution": [
+            "f3g2",
+            "h1g2",
+            "P@f3",
+            "g2h1",
+            "P@g2"
+        ],
+        "url": "https://lichess.org/WOfDSaHr"
+    },
+    {
+        "mate_in": 3,
+        "fen": "3Q~q1k1/b2Q1pbp/2pp2p1/pb6/N2pP3/1P1n4/P4PPP/R4RK1[RNPrbnp] b - - 0 31",
+        "solution": [
+            "N@e2",
+            "g1h1",
+            "R@g1",
+            "f1g1",
+            "d3f2"
+        ],
+        "url": "https://lichess.org/7SJ4HpWk"
+    },
+    {
+        "mate_in": 3,
+        "fen": "r4rk1/pbp1ppbp/2p3p1/3pNN2/3P4/P3P3/1PPB1PPP/R2n1RK1[Qqbn] w - - 0 15",
+        "solution": [
+            "f5e7",
+            "g8h8",
+            "Q@g8",
+            "f8g8",
+            "e5f7"
+        ],
+        "url": "https://lichess.org/Idbdx6gK"
+    },
+    {
+        "mate_in": 3,
+        "fen": "rnb2rk1/pppp1pNp/4pP2/8/3P4/4RBPP/P4P2/1b4K1[QNPqrbnpp] w - - 0 24",
+        "solution": [
+            "N@h6",
+            "g8h8",
+            "Q@g8",
+            "f8g8",
+            "h6f7"
+        ],
+        "url": "https://lichess.org/qBJppwT1"
+    },
+    {
+        "mate_in": 3,
+        "fen": "rnb3k1/pp3ppp/3p4/2Bp4/3P2n1/2N1PN2/PPP3PP/R3KB1R[QRqbpp] b KQ - 0 14",
+        "solution": [
+            "Q@f2",
+            "e1d1",
+            "g4e3",
+            "d1c1",
+            "f2c2"
+        ],
+        "url": "https://lichess.org/Ok5Zu5ZG"
+    },
+    {
+        "mate_in": 3,
+        "fen": "5rk1/pp3ppp/8/4P1n1/8/2PQ3b/PP3P1P/7K[QRRRBBNNPPPPPbn] b - - 0 51",
+        "solution": [
+            "B@g2",
+            "h1g1",
+            "N@f3",
+            "d3f3",
+            "g5f3"
+        ],
+        "url": "https://lichess.org/jVpqBtHX"
+    },
+    {
+        "mate_in": 3,
+        "fen": "rnb1kb1r/pppp1ppp/8/4p3/2B1P3/3Pq3/PPPN2PP/R2K2NR[QBPn] b kq - 0 11",
+        "solution": [
+            "N@f2",
+            "d1c1",
+            "e3e1",
+            "B@d1",
+            "e1d1"
+        ],
+        "url": "https://lichess.org/jy5GQzTy"
+    },
+    {
+        "mate_in": 3,
+        "fen": "r1bq4/pppp1kp1/5r1p/4Q3/4P3/2PP4/PP4PP/RNB3K1[RNNPPPbbn] b - - 0 15",
+        "solution": [
+            "N@e2",
+            "g1h1",
+            "f6f1",
+            "N@g1",
+            "f1g1"
+        ],
+        "url": "https://lichess.org/2B3HjT2o"
+    },
+    {
+        "mate_in": 3,
+        "fen": "r2q1r2/ppp1bpkp/2b5/4pP2/4P2n/1P1P3P/1PP2PP1/R1B2RK1[NNPqbn] w - - 0 21",
+        "solution": [
+            "N@h5",
+            "g7h8",
+            "P@g7",
+            "h8g8",
+            "N@h6"
+        ],
+        "url": "https://lichess.org/GiFfML1h"
+    },
+    {
+        "mate_in": 3,
+        "fen": "r2q3r/p1pn1kpp/2n1p3/3p1bP1/4nB2/P1n1PP2/P1P3PP/Q4RK1[BBPPr] b - - 0 20",
+        "solution": [
+            "c3e2",
+            "g1h1",
+            "R@g1",
+            "f1g1",
+            "e4f2"
+        ],
+        "url": "https://lichess.org/LFekjwYN"
+    },
+    {
+        "mate_in": 3,
+        "fen": "3r1rk1/ppp2ppp/4p1n1/3pP2N/2n3b1/2P1P1B1/PbP2PPP/R4RK1[QNqb] w - - 0 19",
+        "solution": [
+            "N@h6",
+            "g8h8",
+            "Q@g8",
+            "f8g8",
+            "h6f7"
+        ],
+        "url": "https://lichess.org/xxNWhdaa"
+    },
+    {
+        "mate_in": 3,
+        "fen": "rk1N4/ppp1NBp1/3p1p1p/4p3/4P3/2NPP2K/PP1B1qPP/5r1r[QRBBNP] b - - 4 43",
+        "solution": [
+            "h1h2",
+            "h3h2",
+            "f2h4",
+            "N@h3",
+            "P@g3"
+        ],
+        "url": "https://lichess.org/3cA5zPOM"
+    },
+    {
+        "mate_in": 3,
+        "fen": "r3k2r/ppp2p2/3p1p1p/2b1p3/2B1P3/2P3PP/PP2n1PK/RN3R2[QQNNbbp] b kq - 1 15",
+        "solution": [
+            "B@g1",
+            "f1g1",
+            "c5g1",
+            "h2h1",
+            "R@h2"
+        ],
+        "url": "https://lichess.org/gsq4xLul"
+    },
+    {
+        "mate_in": 3,
+        "fen": "rn2kb1r/pp3Npp/4p3/8/8/3Pp3/PPP1K1PP/3R1B1R[QBPPPqbnnp] w - - 2 25",
+        "solution": [
+            "Q@d8",
+            "e8f7",
+            "B@e8",
+            "f7g8",
+            "P@f7"
+        ],
+        "url": "https://lichess.org/hox6yOFn"
+    },
+    {
+        "mate_in": 3,
+        "fen": "6rk/pp2Pppp/6p1/7p/8/4pN2/PPP1B1K1/R2QB1NR[QBNPPPPrbn] b - - 0 36",
+        "solution": [
+            "N@f4",
+            "g2g3",
+            "R@g4",
+            "g3h2",
+            "g4g2"
+        ],
+        "url": "https://lichess.org/ACgdnEEv"
+    },
+    {
+        "mate_in": 3,
+        "fen": "r1b2rk1/ppp2ppp/2n1p3/8/B3q3/2B5/PPP1PPPP/R3K2R[QNbnnpp] w KQ - 4 26",
+        "solution": [
+            "N@h6",
+            "g8h8",
+            "Q@g8",
+            "f8g8",
+            "h6f7"
+        ],
+        "url": "https://lichess.org/9CzmXbiY"
+    },
+    {
+        "mate_in": 3,
+        "fen": "3rk2r/ppp2ppp/2b1pn2/4N3/2B5/4N3/PPP2PPP/R1B2RK1[QBPPqnp] b k - 1 14",
+        "solution": [
+            "N@h3",
+            "g1h1",
+            "Q@g1",
+            "f1g1",
+            "h3f2"
+        ],
+        "url": "https://lichess.org/BnHShGVk"
+    },
+    {
+        "mate_in": 3,
+        "fen": "r1b2rk1/1pB2pnp/p3p3/1bpnP3/8/5P1P/PP1N1P2/K2R4[QNPPPqrbp] w - - 0 27",
+        "solution": [
+            "N@h6",
+            "g8h8",
+            "Q@g8",
+            "f8g8",
+            "h6f7"
+        ],
+        "url": "https://lichess.org/SJAEYirU"
+    },
+    {
+        "mate_in": 3,
+        "fen": "r4rk1/pppn1ppp/4p2b/3p1bN1/3P4/2N3P1/PPP1PPBK/R4R2[QBNqp] w - - 1 15",
+        "solution": [
+            "N@e7",
+            "g8h8",
+            "Q@g8",
+            "f8g8",
+            "g5f7"
+        ],
+        "url": "https://lichess.org/vaeRLTPl"
+    },
+    {
+        "mate_in": 3,
+        "fen": "r1b5/1pknPpQ1/p2Np3/3pP3/2p3P1/5QBn/PpB2P1K/1RrB1q~r1[NPPP] b - - 0 40",
+        "solution": [
+            "g1h1",
+            "f3h1",
+            "f1h1",
+            "h2h1",
+            "Q@g1"
+        ],
+        "url": "https://lichess.org/QTaOOma7"
+    },
+    {
+        "mate_in": 3,
+        "fen": "r1b4r/pppp1k1p/3b1np1/4P3/4P3/2N2p2/PPP2PPP/R1BB1RK1[QNqnp] b - - 0 15",
+        "solution": [
+            "N@h3",
+            "g1h1",
+            "Q@g1",
+            "f1g1",
+            "h3f2"
+        ],
+        "url": "https://lichess.org/WJoWhDEh"
+    },
+    {
+        "mate_in": 3,
+        "fen": "rk4B1/ppp3Np/1pn3p1/8/4n3/8/P1PP1PPP/1R3RK1[QRBBBPPPqnp] b - - 0 34",
+        "solution": [
+            "N@e2",
+            "g1h1",
+            "Q@g1",
+            "f1g1",
+            "e4f2"
+        ],
+        "url": "https://lichess.org/5rMlXr8W"
+    },
+    {
+        "mate_in": 3,
+        "fen": "r6k/pppq1p2/3p1pp1/2b2N2/4P1B1/2PP3P/P1P2PP1/R4RK1[RPqbbnnn] w - - 1 23",
+        "solution": [
+            "P@g7",
+            "h8h7",
+            "R@h6",
+            "h7g8",
+            "h6h8"
+        ],
+        "url": "https://lichess.org/9UyOYUVv"
+    },
+    {
+        "mate_in": 3,
+        "fen": "r4r1k/2p2p1p/p1b2Nnp/4P3/1p1P4/8/PPP2PPP/R2QR1K1[QBbbnnpp] w - - 2 21",
+        "solution": [
+            "B@g7",
+            "h8g7",
+            "f6h5",
+            "g7g8",
+            "Q@g7"
+        ],
+        "url": "https://lichess.org/nEl3rUcV"
+    },
+    {
+        "mate_in": 3,
+        "fen": "r2q4/ppp2Bkr/3pQpN1/2b5/4Pp2/3P4/PPP2PPP/R4RK1[BNPbnnp] b - - 0 19",
+        "solution": [
+            "N@e2",
+            "g1h1",
+            "N@g3",
+            "f2g3",
+            "e2g3"
+        ],
+        "url": "https://lichess.org/SFjGeGaP"
+    },
+    {
+        "mate_in": 3,
+        "fen": "2r2k2/1Npq1Bp1/p1ppp3/8/pB1PN3/Pn1PPR2/KPR1P3/5n1r[QBPPPb] b - - 0 57",
+        "solution": [
+            "B@b1",
+            "a2b1",
+            "f1d2",
+            "b1a2",
+            "h1a1"
+        ],
+        "url": "https://lichess.org/c4ils7t9"
+    },
+    {
+        "mate_in": 3,
+        "fen": "rn1B1bnr/ppp3pp/4kp2/4b3/5R2/8/PPP3PP/RNBQ2K1[PPqnppp] w - - 0 18",
+        "solution": [
+            "P@f5",
+            "e6f7",
+            "d1d5",
+            "f7e8",
+            "P@f7"
+        ],
+        "url": "https://lichess.org/gLaFcX1d"
+    },
+    {
+        "mate_in": 3,
+        "fen": "r1b2b1r/p1p1k1pp/2p1p3/4p3/8/5P1n/PPPP1P1P/RNB2R1K[QBNNPqp] b - - 2 14",
+        "solution": [
+            "P@g2",
+            "h1g2",
+            "h3f4",
+            "g2h1",
+            "Q@g2"
+        ],
+        "url": "https://lichess.org/qX7Alwfc"
+    },
+    {
+        "mate_in": 3,
+        "fen": "r1b1r1k1/ppp2pBp/8/1Pp3b1/3pPP2/5P2/P1P2KPP/RN1q1BNR[QNNp] b - - 6 24",
+        "solution": [
+            "P@e3",
+            "f2g3",
+            "d1e1",
+            "N@f2",
+            "e1f2"
+        ],
+        "url": "https://lichess.org/CZWYcfmY"
+    },
+    {
+        "mate_in": 3,
+        "fen": "rn3rk1/ppp2ppp/3p4/4p1q1/2B1P2B/2PPbB2/PP4P1/RN1QK2R[NPPn] b - - 4 16",
+        "solution": [
+            "g5h4",
+            "h1h4",
+            "B@f2",
+            "e1e2",
+            "N@g3"
+        ],
+        "url": "https://lichess.org/jmk1AjMh"
+    },
+    {
+        "mate_in": 3,
+        "fen": "r3kb1r/ppp3pp/2np1n2/4p1N1/4P3/2PP4/PPP2PPP/RNB1K2R[Qqbb] w KQ - 0 12",
+        "solution": [
+            "Q@f7",
+            "e8d8",
+            "g5e6",
+            "d8c8",
+            "f7c7"
+        ],
+        "url": "https://lichess.org/Zko9BzAd"
+    },
+    {
+        "mate_in": 3,
+        "fen": "1r3r1k/p3nb1p/2ppp3/6P1/3P2p1/P3PN2/1PP1BbBP/1R5K[QNPqrnpp] w - - 0 39",
+        "solution": [
+            "P@g7",
+            "h8g7",
+            "Q@f6",
+            "g7g8",
+            "N@h6"
+        ],
+        "url": "https://lichess.org/fohPCCIe"
+    },
+    {
+        "mate_in": 3,
+        "fen": "r2q3k/pppnb3/3pPp2/5P1N/3b2P1/5PP1/PP4KP/RN3R2[RBqbnppp] w - - 0 28",
+        "solution": [
+            "B@g7",
+            "h8h7",
+            "R@h6",
+            "h7g8",
+            "h6h8"
+        ],
+        "url": "https://lichess.org/bSPghylT"
+    },
+    {
+        "mate_in": 3,
+        "fen": "rq1k3r/1ppb2P1/p1n1pPBp/3p4/3P2bP/P1PPP1n1/3Qn1PK/R4R2[BNp] b - - 2 26",
+        "solution": [
+            "g3f1",
+            "a1f1",
+            "P@g3",
+            "h2h1",
+            "R@h2"
+        ],
+        "url": "https://lichess.org/HOmhb1Fu"
+    },
+    {
+        "mate_in": 3,
+        "fen": "rnb2rk1/pp2bppp/2p5/8/q7/3p4/PB3PPK/R3Q3[RNPPPbnnppp] w - - 1 21",
+        "solution": [
+            "N@h6",
+            "g8h8",
+            "R@g8",
+            "f8g8",
+            "h6f7"
+        ],
+        "url": "https://lichess.org/ppdwiEUS"
+    },
+    {
+        "mate_in": 3,
+        "fen": "rn2rk2/ppp2ppp/7N/3pB3/2PP4/2nb1N2/P1P2PPP/2R1K2R[Qqbbpp] w K - 2 17",
+        "solution": [
+            "Q@g8",
+            "f8e7",
+            "g8f7",
+            "e7d8",
+            "f7c7"
+        ],
+        "url": "https://lichess.org/cHAl9KJW"
+    },
+    {
+        "mate_in": 3,
+        "fen": "1Q3b1r/p2qkpp1/2ppp1p1/8/3P1B2/4P3/P4PPP/4rBK1[RRNNNPPbnp] b - - 2 25",
+        "solution": [
+            "N@e2",
+            "g1h1",
+            "e1f1",
+            "R@g1",
+            "f1g1"
+        ],
+        "url": "https://lichess.org/VlsGz1oP"
+    },
+    {
+        "mate_in": 3,
+        "fen": "r4bnr/ppp3pp/2npQp1k/8/4PN2/3P4/PPP2PbP/R4RK1[Pqbbnp] w - - 3 17",
+        "solution": [
+            "P@g5",
+            "h6g5",
+            "e6f5",
+            "g5h6",
+            "f5h5"
+        ],
+        "url": "https://lichess.org/gPLRUIlx"
+    },
+    {
+        "mate_in": 3,
+        "fen": "rnQqkb1r/ppp2p1p/2p1pp2/1B4n1/3PN1b1/5p2/PPP2PBP/R4R1K[Pn] w kq - 0 20",
+        "solution": [
+            "e4f6",
+            "e8e7",
+            "c8d8",
+            "e7d8",
+            "Q@e8"
+        ],
+        "url": "https://lichess.org/sgwOxEIx"
+    },
+    {
+        "mate_in": 3,
+        "fen": "2r2rk1/2p2ppp/2N1p3/p2pN3/2pP4/4PN2/PP2BPPP/nqB2K1R[QBrbp] w - - 2 24",
+        "solution": [
+            "c6e7",
+            "g8h8",
+            "Q@g8",
+            "f8g8",
+            "e5f7"
+        ],
+        "url": "https://lichess.org/W7lEaV7W"
+    },
+    {
+        "mate_in": 3,
+        "fen": "r2qn1k1/4bp2/2pp2pp/1p2p1N1/2b1P3/PpP2P2/1P1B2PP/1R4K1[RBNqrnp] w - - 0 29",
+        "solution": [
+            "B@h7",
+            "g8g7",
+            "R@g8",
+            "g7f6",
+            "N@g4"
+        ],
+        "url": "https://lichess.org/pQJo5vTt"
+    },
+    {
+        "mate_in": 3,
+        "fen": "r1bq1rk1/pp3p1n/4pPp1/3pP3/1b4Q1/1P2PN2/P1P2PPP/q~4RK1[Nrbbn] w - - 0 17",
+        "solution": [
+            "g4g6",
+            "f7g6",
+            "N@h6",
+            "g8h8",
+            "P@g7"
+        ],
+        "url": "https://lichess.org/aGYmZgtu"
+    },
+    {
+        "mate_in": 3,
+        "fen": "rn3kr1/pppb1ppp/3p4/8/4P1P1/2P1NP2/P5PP/4qNK1[QRRBBBPPn] b - - 0 33",
+        "solution": [
+            "N@e2",
+            "g1h1",
+            "e1f1",
+            "e3f1",
+            "N@f2"
+        ],
+        "url": "https://lichess.org/zPVor5uN"
+    }
+]
